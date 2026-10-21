@@ -1,0 +1,525 @@
+2026-10-21T00:45:02.897228Z repo page 1: 100 candidates so far
+2026-10-21T00:45:05.080800Z rate limit reached; sleeping 4s
+2026-10-21T00:45:09.031974Z repo page 2: 200 candidates so far
+2026-10-21T00:45:11.274807Z repo page 3: 300 candidates so far
+2026-10-21T00:45:13.233536Z repo page 4: 400 candidates so far
+2026-10-21T00:45:15.257419Z repo page 5: 500 candidates so far
+2026-10-21T00:45:17.740780Z repo page 6: 600 candidates so far
+2026-10-21T00:45:20.074958Z repo page 7: 700 candidates so far
+2026-10-21T00:45:22.424479Z repo page 8: 800 candidates so far
+2026-10-21T00:45:24.426254Z repo page 9: 900 candidates so far
+2026-10-21T00:45:26.719489Z repo page 10: 1000 candidates so far
+2026-10-21T00:45:27.443271Z kept 400 software repositories out of 1000 candidates
+2026-10-21T00:45:28.211694Z openclaw/openclaw: a11y 0/0, bug 0/0
+2026-10-21T00:45:28.707569Z NousResearch/hermes-agent: a11y 0/0, bug 0/0
+2026-10-21T00:45:31.749550Z react/react: a11y 0/0, bug 200/511
+2026-10-21T00:45:32.427660Z vuejs/vue: a11y 0/0, bug 7/7
+2026-10-21T00:45:32.648195Z rate limit reached; sleeping 55s
+2026-10-21T00:46:28.402985Z n8n-io/n8n: a11y 0/0, bug 0/0
+2026-10-21T00:46:32.479251Z yt-dlp/yt-dlp: a11y 0/0, bug 200/579
+2026-10-21T00:46:33.046208Z ultraworkers/claw-code: a11y 0/0, bug 0/0
+2026-10-21T00:46:38.311051Z rate limit reached; sleeping 50s
+2026-10-21T00:47:28.182681Z HTTP 403; sleeping 5s
+2026-10-21T00:50:55.708492Z microsoft/vscode: a11y 500/1416, bug 200/13877
+2026-10-21T00:50:55.955239Z rate limit reached; sleeping 25s
+2026-10-21T00:51:23.968252Z firecrawl/firecrawl: a11y 0/0, bug 200/230
+2026-10-21T00:51:24.790276Z microsoft/markitdown: a11y 0/0, bug 14/14
+2026-10-21T00:51:27.928003Z Significant-Gravitas/AutoGPT: a11y 0/0, bug 200/326
+2026-10-21T00:51:31.382856Z rate limit reached; sleeping 50s
+2026-10-21T00:52:21.177007Z ollama/ollama: a11y 0/0, bug 200/3577
+2026-10-21T00:52:21.659671Z flutter/flutter: a11y 0/0, bug 0/0
+2026-10-21T00:52:24.836815Z open-webui/open-webui: a11y 0/0, bug 200/883
+2026-10-21T00:52:28.214986Z langflow-ai/langflow: a11y 0/0, bug 200/1423
+2026-10-21T00:52:30.152840Z rate limit reached; sleeping 52s
+2026-10-21T00:53:24.002096Z clash-verge-rev/clash-verge-rev: a11y 0/0, bug 200/1985
+2026-10-21T00:53:24.544831Z Genymobile/scrcpy: a11y 0/0, bug 1/1
+2026-10-21T00:53:26.762319Z langchain-ai/langchain: a11y 0/0, bug 100/3753
+2026-10-21T00:54:27.068344Z vercel/next.js: a11y 0/0, bug 200/7657
+2026-10-21T00:54:27.301067Z rate limit reached; sleeping 53s
+2026-10-21T00:55:20.392535Z github/spec-kit: a11y 0/0, bug 0/0
+2026-10-21T00:55:21.069385Z ytdl-org/youtube-dl: a11y 0/0, bug 7/7
+2026-10-21T00:55:22.299480Z Comfy-Org/ComfyUI: a11y 0/0, bug 58/58
+2026-10-21T00:55:22.788528Z golang/go: a11y 0/0, bug 0/0
+2026-10-21T00:55:23.344495Z garrytan/gstack: a11y 0/0, bug 0/0
+2026-10-21T00:55:23.676855Z rate limit reached; sleeping 56s
+2026-10-21T00:56:23.090783Z excalidraw/excalidraw: a11y 2/2, bug 200/358
+2026-10-21T00:56:24.828377Z harry0703/MoneyPrinterTurbo: a11y 0/0, bug 93/93
+2026-10-21T00:56:28.283836Z ggml-org/llama.cpp: a11y 0/0, bug 200/294
+2026-10-21T00:56:32.080297Z kubernetes/kubernetes: a11y 0/0, bug 200/3305
+2026-10-21T00:57:23.426072Z react/react-native: a11y 18/18, bug 22/22
+2026-10-21T00:57:27.450403Z rustdesk/rustdesk: a11y 0/0, bug 200/2482
+2026-10-21T00:57:30.510031Z shadcn-ui/ui: a11y 0/0, bug 200/1274
+2026-10-21T00:57:31.014807Z rate limit reached; sleeping 6s
+2026-10-21T00:57:37.345631Z electron/electron: a11y 12/12, bug 0/0
+2026-10-21T00:57:37.881926Z nodejs/node: a11y 0/0, bug 0/0
+2026-10-21T00:57:38.509381Z rust-lang/rust: a11y 0/0, bug 0/0
+2026-10-21T00:57:42.068123Z rate limit reached; sleeping 55s
+2026-10-21T00:58:37.190291Z godotengine/godot: a11y 0/0, bug 200/17916
+2026-10-21T00:58:40.466532Z 2dust/v2rayN: a11y 0/0, bug 200/2136
+2026-10-21T00:58:45.081139Z browser-use/browser-use: a11y 0/0, bug 200/515
+2026-10-21T00:58:45.754198Z immich-app/immich: a11y 5/5, bug 0/0
+2026-10-21T00:58:47.447731Z rate limit reached; sleeping 51s
+2026-10-21T00:59:39.746946Z mrdoob/three.js: a11y 0/0, bug 200/213
+2026-10-21T00:59:42.855886Z supabase/supabase: a11y 1/1, bug 200/2492
+2026-10-21T00:59:43.351142Z TauricResearch/TradingAgents: a11y 0/0, bug 0/0
+2026-10-21T00:59:46.760533Z tauri-apps/tauri: a11y 0/0, bug 200/3228
+2026-10-21T00:59:47.053611Z HTTP 403; sleeping 51s
+2026-10-21T01:00:39.573046Z microsoft/TypeScript: a11y 0/0, bug 200/2042
+2026-10-21T01:00:40.259347Z fatedier/frp: a11y 0/0, bug 12/12
+2026-10-21T01:00:40.727441Z axios/axios: a11y 0/0, bug 0/0
+2026-10-21T01:00:44.137565Z rate limit reached; sleeping 53s
+2026-10-21T01:01:37.223296Z denoland/deno: a11y 0/0, bug 200/2441
+2026-10-21T01:01:40.363843Z google-gemini/gemini-cli: a11y 0/0, bug 200/462
+2026-10-21T01:01:42.384760Z microsoft/terminal: a11y 100/100, bug 0/0
+2026-10-21T01:01:43.013285Z deepseek-ai/DeepSeek-V3: a11y 0/0, bug 0/0
+2026-10-21T01:01:43.478449Z react/create-react-app: a11y 0/0, bug 0/0
+2026-10-21T01:01:58.557153Z HTTP 403; sleeping 39s
+2026-10-21T01:02:38.549105Z rate limit reached; sleeping 1s
+2026-10-21T01:02:43.914062Z angular/angular: a11y 8/8, bug 200/230
+2026-10-21T01:02:44.400534Z Panniantong/Agent-Reach: a11y 0/0, bug 0/0
+2026-10-21T01:02:44.917526Z ant-design/ant-design: a11y 0/0, bug 0/0
+2026-10-21T01:02:50.690969Z rate limit reached; sleeping 49s
+2026-10-21T01:03:40.276938Z mui/material-ui: a11y 147/147, bug 200/755
+2026-10-21T01:03:40.772920Z karpathy/autoresearch: a11y 0/0, bug 0/0
+2026-10-21T01:03:41.284781Z microsoft/playwright: a11y 0/0, bug 0/0
+2026-10-21T01:03:42.195240Z tailwindlabs/tailwindcss: a11y 0/0, bug 25/25
+2026-10-21T01:03:42.711900Z nvbn/thefuck: a11y 0/0, bug 0/0
+2026-10-21T01:03:43.121860Z hacksider/Deep-Live-Cam: a11y 0/0, bug 0/0
+2026-10-21T01:04:04.162110Z oven-sh/bun: a11y 0/0, bug 200/7919
+2026-10-21T01:04:07.262797Z rate limit reached; sleeping 44s
+2026-10-21T01:04:51.165107Z puppeteer/puppeteer: a11y 0/0, bug 200/1408
+2026-10-21T01:04:52.104463Z OpenCut-app/OpenCut: a11y 0/0, bug 26/26
+2026-10-21T01:04:54.145044Z 3b1b/manim: a11y 0/0, bug 121/121
+2026-10-21T01:04:57.625450Z localsend/localsend: a11y 0/0, bug 200/296
+2026-10-21T01:04:57.824244Z rate limit reached; sleeping 54s
+2026-10-21T01:05:54.603533Z Stirling-Tools/Stirling-PDF: a11y 0/0, bug 163/163
+2026-10-21T01:05:56.931777Z sherlock-project/sherlock: a11y 0/0, bug 108/108
+2026-10-21T01:06:00.621780Z vllm-project/vllm: a11y 0/0, bug 200/3810
+2026-10-21T01:06:00.929333Z HTTP 403; sleeping 51s
+2026-10-21T01:07:10.676723Z odysseus-dev/odysseus: a11y 0/0, bug 0/0
+2026-10-21T01:07:14.361267Z louislam/uptime-kuma: a11y 0/0, bug 200/578
+2026-10-21T01:07:14.830993Z infiniflow/ragflow: a11y 0/0, bug 0/0
+2026-10-21T01:07:15.028031Z rate limit reached; sleeping 38s
+2026-10-21T01:07:55.558708Z NationalSecurityAgency/ghidra: a11y 0/0, bug 130/130
+2026-10-21T01:07:59.267952Z zed-industries/zed: a11y 0/0, bug 200/4706
+2026-10-21T01:08:00.604599Z home-assistant/core: a11y 0/0, bug 40/40
+2026-10-21T01:08:02.462986Z rate limit reached; sleeping 51s
+2026-10-21T01:08:53.749857Z PaddlePaddle/PaddleOCR: a11y 0/0, bug 113/113
+2026-10-21T01:08:56.956866Z modelcontextprotocol/servers: a11y 0/0, bug 200/256
+2026-10-21T01:09:00.123828Z OpenHands/OpenHands: a11y 0/0, bug 200/1743
+2026-10-21T01:09:00.442737Z HTTP 403; sleeping 53s
+2026-10-21T01:10:08.898115Z astral-sh/uv: a11y 0/0, bug 200/1652
+2026-10-21T01:10:09.414437Z mermaid-js/mermaid: a11y 0/0, bug 0/0
+2026-10-21T01:10:12.392052Z rate limit reached; sleeping 43s
+2026-10-21T01:10:55.156347Z bitcoin/bitcoin: a11y 0/0, bug 200/272
+2026-10-21T01:10:58.295176Z gohugoio/hugo: a11y 0/0, bug 200/1207
+2026-10-21T01:11:01.946486Z syncthing/syncthing: a11y 0/0, bug 200/533
+2026-10-21T01:11:02.391417Z gin-gonic/gin: a11y 0/0, bug 0/0
+2026-10-21T01:11:02.873000Z rate limit reached; sleeping 53s
+2026-10-21T01:11:56.095926Z koala73/worldmonitor: a11y 0/0, bug 0/0
+2026-10-21T01:11:56.945002Z D4Vinci/Scrapling: a11y 0/0, bug 15/15
+2026-10-21T01:12:00.008353Z ChatGPTNextWeb/NextChat: a11y 0/0, bug 200/671
+2026-10-21T01:12:00.441637Z unclecode/crawl4ai: a11y 0/0, bug 0/0
+2026-10-21T01:12:00.940577Z macrozheng/mall: a11y 0/0, bug 0/0
+2026-10-21T01:12:01.230184Z HTTP 403; sleeping 56s
+2026-10-21T01:13:07.001532Z realworld-apps/realworld: a11y 0/0, bug 41/41
+2026-10-21T01:13:07.729868Z bytedance/deer-flow: a11y 0/0, bug 7/7
+2026-10-21T01:13:08.194277Z fighting41love/funNLP: a11y 0/0, bug 0/0
+2026-10-21T01:13:08.637893Z pbakaus/impeccable: a11y 0/0, bug 0/0
+2026-10-21T01:13:10.368804Z junegunn/fzf: a11y 0/0, bug 84/84
+2026-10-21T01:13:10.889916Z vitejs/vite: a11y 0/0, bug 0/0
+2026-10-21T01:13:14.205916Z jesseduffield/lazygit: a11y 0/0, bug 200/673
+2026-10-21T01:13:15.097185Z animate-css/animate.css: a11y 0/0, bug 20/20
+2026-10-21T01:13:16.658278Z rate limit reached; sleeping 52s
+2026-10-21T01:14:10.498270Z opendatalab/MinerU: a11y 0/0, bug 200/849
+2026-10-21T01:14:11.078371Z tonsky/FiraCode: a11y 0/0, bug 3/3
+2026-10-21T01:14:14.195409Z spring-projects/spring-boot: a11y 0/0, bug 200/1424
+2026-10-21T01:14:14.913395Z Z4nzu/hackingtool: a11y 0/0, bug 6/6
+2026-10-21T01:14:15.397278Z 666ghj/MiroFish: a11y 0/0, bug 0/0
+2026-10-21T01:15:08.432349Z hoppscotch/hoppscotch: a11y 1/1, bug 200/797
+2026-10-21T01:15:09.204057Z abi/screenshot-to-code: a11y 0/0, bug 8/8
+2026-10-21T01:15:10.382161Z ventoy/Ventoy: a11y 0/0, bug 36/36
+2026-10-21T01:15:13.699755Z rate limit reached; sleeping 51s
+2026-10-21T01:16:05.156636Z anuraghazra/github-readme-stats: a11y 0/0, bug 200/293
+2026-10-21T01:16:08.800292Z coder/code-server: a11y 0/0, bug 200/503
+2026-10-21T01:16:09.352825Z debpalash/VoiceStudio: a11y 0/0, bug 0/0
+2026-10-21T01:16:09.814923Z elastic/elasticsearch: a11y 0/0, bug 0/0
+2026-10-21T01:16:10.386626Z caddyserver/caddy: a11y 0/0, bug 0/0
+2026-10-21T01:16:10.752545Z HTTP 403; sleeping 55s
+2026-10-21T01:17:58.785587Z obsproject/obs-studio: a11y 0/0, bug 0/0
+2026-10-21T01:17:59.315328Z python/cpython: a11y 0/0, bug 0/0
+2026-10-21T01:17:59.850231Z grafana/grafana: a11y 0/0, bug 0/0
+2026-10-21T01:18:03.724304Z nomic-ai/gpt4all: a11y 6/6, bug 189/189
+2026-10-21T01:18:04.060351Z rate limit reached; sleeping 55s
+2026-10-21T01:18:59.371911Z rate limit reached; sleeping 8s
+2026-10-21T01:19:07.044958Z redis/redis: a11y 0/0, bug 0/0
+2026-10-21T01:19:07.772835Z nestjs/nest: a11y 0/0, bug 0/0
+2026-10-21T01:19:11.250608Z ocornut/imgui: a11y 0/0, bug 194/194
+2026-10-21T01:19:14.932121Z hiyouga/LlamaFactory: a11y 0/0, bug 200/229
+2026-10-21T01:19:15.363371Z apache/superset: a11y 0/0, bug 0/0
+2026-10-21T01:19:28.574141Z Eugeny/tabby: a11y 0/0, bug 0/0
+2026-10-21T01:19:29.115752Z pallets/flask: a11y 0/0, bug 0/0
+2026-10-21T01:19:29.525329Z colbymchenry/codegraph: a11y 0/0, bug 0/0
+2026-10-21T01:19:30.407213Z juliangarnier/anime: a11y 0/0, bug 30/30
+2026-10-21T01:19:30.753927Z rate limit reached; sleeping 40s
+2026-10-21T01:20:11.546083Z unionlabs/union: a11y 0/0, bug 14/14
+2026-10-21T01:20:12.295901Z strapi/strapi: a11y 0/0, bug 4/4
+2026-10-21T01:20:13.006095Z hakimel/reveal.js: a11y 0/0, bug 4/4
+2026-10-21T01:20:16.856438Z nektos/act: a11y 0/0, bug 200/480
+2026-10-21T01:20:19.106760Z rate limit reached; sleeping 52s
+2026-10-21T01:21:12.703249Z moby/moby: a11y 0/0, bug 200/1030
+2026-10-21T01:21:14.211189Z protocolbuffers/protobuf: a11y 0/0, bug 63/63
+2026-10-21T01:21:15.823515Z binary-husky/gpt_academic: a11y 0/0, bug 63/63
+2026-10-21T01:21:20.564483Z ansible/ansible: a11y 1/1, bug 200/1937
+2026-10-21T01:21:20.859693Z HTTP 403; sleeping 50s
+2026-10-21T01:24:04.385010Z FoundationAgents/MetaGPT: a11y 0/0, bug 22/22
+2026-10-21T01:24:07.699142Z swiftlang/swift: a11y 0/0, bug 200/3723
+2026-10-21T01:24:08.170748Z usestrix/strix: a11y 0/0, bug 0/0
+2026-10-21T01:24:08.644757Z storytold/photocraft: a11y 0/0, bug 0/0
+2026-10-21T01:24:08.980964Z rate limit reached; sleeping 55s
+2026-10-21T01:25:05.290399Z expressjs/express: a11y 0/0, bug 55/55
+2026-10-21T01:25:09.057239Z dani-garcia/vaultwarden: a11y 0/0, bug 200/345
+2026-10-21T01:25:10.042347Z BurntSushi/ripgrep: a11y 0/0, bug 39/39
+2026-10-21T01:25:13.077471Z docling-project/docling: a11y 0/0, bug 200/448
+2026-10-21T01:25:13.377482Z HTTP 403; sleeping 51s
+2026-10-21T01:26:21.247460Z gorhill/uBlock: a11y 0/0, bug 0/0
+2026-10-21T01:26:21.743558Z heygen-com/hyperframes: a11y 0/0, bug 0/0
+2026-10-21T01:26:25.300935Z chartjs/Chart.js: a11y 0/0, bug 200/576
+2026-10-21T01:26:29.109405Z apache/echarts: a11y 2/2, bug 200/2142
+2026-10-21T01:26:31.875274Z mem0ai/mem0: a11y 0/0, bug 115/115
+2026-10-21T01:26:33.159717Z NanmiCoder/MediaCrawler: a11y 0/0, bug 41/41
+2026-10-21T01:26:34.779201Z rate limit reached; sleeping 51s
+2026-10-21T01:27:26.696134Z Mintplex-Labs/anything-llm: a11y 0/0, bug 112/112
+2026-10-21T01:27:27.287242Z ZhuLinsen/daily_stock_analysis: a11y 0/0, bug 0/0
+2026-10-21T01:27:30.793528Z prometheus/prometheus: a11y 0/0, bug 143/143
+2026-10-21T01:27:34.319588Z LadybirdBrowser/ladybird: a11y 0/0, bug 200/362
+2026-10-21T01:27:34.594718Z HTTP 403; sleeping 51s
+2026-10-21T01:30:10.006164Z facebook/docusaurus: a11y 0/0, bug 200/699
+2026-10-21T01:30:10.469662Z leonardomso/33-js-concepts: a11y 0/0, bug 0/0
+2026-10-21T01:30:11.041873Z alacritty/alacritty: a11y 0/0, bug 0/0
+2026-10-21T01:30:13.278258Z rate limit reached; sleeping 7s
+2026-10-21T01:30:21.011481Z webpack/webpack: a11y 0/0, bug 142/142
+2026-10-21T01:30:24.116113Z remotion-dev/remotion: a11y 0/0, bug 200/503
+2026-10-21T01:30:27.996426Z warpdotdev/warp: a11y 13/13, bug 200/3407
+2026-10-21T01:30:28.925325Z nocodb/nocodb: a11y 0/0, bug 0/0
+2026-10-21T01:30:29.389940Z traefik/traefik: a11y 0/0, bug 0/0
+2026-10-21T01:30:29.591726Z rate limit reached; sleeping 22s
+2026-10-21T01:30:54.008265Z scrapy/scrapy: a11y 0/0, bug 103/103
+2026-10-21T01:30:54.489482Z rust-lang/rustlings: a11y 0/0, bug 0/0
+2026-10-21T01:30:55.380603Z 2dust/v2rayNG: a11y 0/0, bug 12/12
+2026-10-21T01:30:56.946614Z virattt/ai-hedge-fund: a11y 0/0, bug 74/74
+2026-10-21T01:30:57.809613Z rate limit reached; sleeping 54s
+2026-10-21T01:31:52.094202Z jingyaogong/minimind: a11y 0/0, bug 5/5
+2026-10-21T01:31:52.884834Z karpathy/nanoGPT: a11y 0/0, bug 0/0
+2026-10-21T01:31:55.786074Z commaai/openpilot: a11y 0/0, bug 200/820
+2026-10-21T01:31:56.743036Z jgraph/drawio-desktop: a11y 0/0, bug 18/18
+2026-10-21T01:31:57.385388Z topjohnwu/Magisk: a11y 0/0, bug 0/0
+2026-10-21T01:31:57.796021Z HTTP 403; sleeping 55s
+2026-10-21T01:33:56.796210Z withastro/astro: a11y 0/0, bug 0/0
+2026-10-21T01:33:57.429724Z coollabsio/coolify: a11y 0/0, bug 0/0
+2026-10-21T01:33:58.122618Z RVC-Boss/GPT-SoVITS: a11y 0/0, bug 12/12
+2026-10-21T01:33:59.551534Z socketio/socket.io: a11y 0/0, bug 55/55
+2026-10-21T01:34:01.225585Z rate limit reached; sleeping 56s
+2026-10-21T01:34:58.657797Z termux/termux-app: a11y 0/0, bug 200/473
+2026-10-21T01:34:59.148276Z sansan0/TrendRadar: a11y 0/0, bug 0/0
+2026-10-21T01:34:59.371509Z rate limit reached; sleeping 27s
+2026-10-21T01:35:26.460591Z resume/resume.github.com: a11y 0/0, bug 0/0
+2026-10-21T01:35:26.941426Z marktext/marktext: a11y 0/0, bug 0/0
+2026-10-21T01:35:27.400620Z ghostty-org/ghostty: a11y 0/0, bug 0/0
+2026-10-21T01:35:30.461127Z tw93/Pake: a11y 0/0, bug 155/155
+2026-10-21T01:35:30.942051Z Alishahryar1/free-claude-code: a11y 0/0, bug 0/0
+2026-10-21T01:36:52.538934Z BerriAI/litellm: a11y 0/0, bug 200/3036
+2026-10-21T01:36:53.523086Z pocketbase/pocketbase: a11y 0/0, bug 15/15
+2026-10-21T01:36:54.152713Z microsoft/autogen: a11y 0/0, bug 0/0
+2026-10-21T01:36:54.609728Z reduxjs/redux: a11y 0/0, bug 0/0
+2026-10-21T01:36:54.804522Z rate limit reached; sleeping 55s
+2026-10-21T01:37:53.081993Z penpot/penpot: a11y 0/0, bug 200/789
+2026-10-21T01:37:56.712738Z FuelLabs/sway: a11y 0/0, bug 200/909
+2026-10-21T01:37:58.411940Z lodash/lodash: a11y 0/0, bug 65/65
+2026-10-21T01:37:59.066632Z makeplane/plane: a11y 0/0, bug 0/0
+2026-10-21T01:37:59.486574Z HTTP 403; sleeping 51s
+2026-10-21T01:41:41.932783Z nuxt/nuxt: a11y 3/3, bug 107/107
+2026-10-21T01:41:45.809656Z sharkdp/bat: a11y 0/0, bug 200/228
+2026-10-21T01:41:49.690793Z rclone/rclone: a11y 0/0, bug 200/275
+2026-10-21T01:41:50.027895Z rate limit reached; sleeping 50s
+2026-10-21T01:42:40.325184Z starship/starship: a11y 0/0, bug 0/0
+2026-10-21T01:42:44.327333Z spring-projects/spring-framework: a11y 0/0, bug 200/741
+2026-10-21T01:42:44.777274Z adam-p/markdown-here: a11y 0/0, bug 0/0
+2026-10-21T01:42:48.377706Z rate limit reached; sleeping 44s
+2026-10-21T01:43:32.169542Z crewAIInc/crewAI: a11y 0/0, bug 200/536
+2026-10-21T01:43:32.909399Z jquery/jquery: a11y 0/0, bug 9/9
+2026-10-21T01:43:33.457936Z FiloSottile/mkcert: a11y 0/0, bug 0/0
+2026-10-21T01:43:34.342403Z meta-llama/llama: a11y 0/0, bug 6/6
+2026-10-21T01:43:37.781058Z meilisearch/meilisearch: a11y 0/0, bug 200/412
+2026-10-21T01:43:38.259087Z HTTP 403; sleeping 55s
+2026-10-21T01:47:00.298347Z shadowsocks/shadowsocks-windows: a11y 0/0, bug 0/0
+2026-10-21T01:47:00.906180Z pmndrs/zustand: a11y 0/0, bug 2/2
+2026-10-21T01:47:01.420735Z rails/rails: a11y 0/0, bug 0/0
+2026-10-21T01:47:02.011292Z karpathy/nanochat: a11y 0/0, bug 0/0
+2026-10-21T01:47:02.696618Z rate limit reached; sleeping 57s
+2026-10-21T01:48:00.091725Z pathwaycom/serviette: a11y 0/0, bug 3/3
+2026-10-21T01:48:00.620249Z twentyhq/twenty: a11y 0/0, bug 0/0
+2026-10-21T01:48:02.456609Z FoundationAgents/OpenManus: a11y 0/0, bug 84/84
+2026-10-21T01:48:03.053207Z go-gitea/gitea: a11y 0/0, bug 0/0
+2026-10-21T01:48:03.528512Z bilawalsidhu/gods-eye-view: a11y 0/0, bug 0/0
+2026-10-21T01:48:03.765129Z rate limit reached; sleeping 41s
+2026-10-21T01:48:48.921913Z jellyfin/jellyfin: a11y 0/0, bug 200/2982
+2026-10-21T01:48:49.383055Z jamiepine/voicebox: a11y 0/0, bug 0/0
+2026-10-21T01:48:52.917267Z appwrite/appwrite: a11y 0/0, bug 200/1595
+2026-10-21T01:48:54.144016Z Textualize/rich: a11y 0/0, bug 25/25
+2026-10-21T01:50:54.718387Z agalwood/Motrix: a11y 0/0, bug 0/0
+2026-10-21T01:50:54.942752Z rate limit reached; sleeping 50s
+2026-10-21T01:51:45.392537Z chen08209/FlClash: a11y 0/0, bug 0/0
+2026-10-21T01:51:45.888289Z Zie619/n8n-workflows: a11y 0/0, bug 0/0
+2026-10-21T01:51:47.211349Z FuelLabs/fuel-core: a11y 0/0, bug 73/73
+2026-10-21T01:51:50.899555Z remix-run/react-router: a11y 0/0, bug 200/1400
+2026-10-21T01:51:52.719130Z rate limit reached; sleeping 52s
+2026-10-21T01:52:46.550603Z gatsbyjs/gatsby: a11y 0/0, bug 200/683
+2026-10-21T01:52:46.986603Z PowerShell/PowerShell: a11y 0/0, bug 0/0
+2026-10-21T01:52:47.465407Z router-for-me/CLIProxyAPI: a11y 0/0, bug 0/0
+2026-10-21T01:52:50.693214Z freqtrade/freqtrade: a11y 0/0, bug 168/168
+2026-10-21T01:52:51.144906Z HKUDS/CLI-Anything: a11y 0/0, bug 0/0
+2026-10-21T01:53:32.044034Z HTTP 403; sleeping 13s
+2026-10-21T01:53:45.132839Z HTTP 403; sleeping 5s
+2026-10-21T01:53:50.632784Z bannedbook/fanqiang: a11y 0/0, bug 0/0
+2026-10-21T01:53:53.736443Z TryGhost/Ghost: a11y 0/0, bug 200/249
+2026-10-21T01:53:56.799494Z WerWolv/ImHex: a11y 0/0, bug 200/568
+2026-10-21T01:53:57.013782Z rate limit reached; sleeping 49s
+2026-10-21T01:54:46.396367Z aaif-goose/goose: a11y 0/0, bug 0/0
+2026-10-21T01:54:46.854731Z odoo/odoo: a11y 0/0, bug 0/0
+2026-10-21T01:54:47.350944Z microsoft/VibeVoice: a11y 0/0, bug 0/0
+2026-10-21T01:54:47.884552Z vuejs/core: a11y 0/0, bug 0/0
+2026-10-21T01:54:49.080376Z wagoodman/dive: a11y 0/0, bug 51/51
+2026-10-21T01:54:49.364813Z HTTP 403; sleeping 57s
+2026-10-21T01:56:12.666912Z lyswhut/lx-music-desktop: a11y 0/0, bug 56/56
+2026-10-21T01:56:13.319407Z psf/requests: a11y 0/0, bug 4/4
+2026-10-21T01:56:15.265202Z ggml-org/whisper.cpp: a11y 0/0, bug 100/100
+2026-10-21T01:56:15.767944Z bmad-code-org/BMAD-METHOD: a11y 0/0, bug 0/0
+2026-10-21T01:56:16.344092Z rate limit reached; sleeping 56s
+2026-10-21T01:57:12.458123Z mozilla/pdf.js: a11y 16/16, bug 0/0
+2026-10-21T01:57:12.955938Z ElemeFE/element: a11y 0/0, bug 0/0
+2026-10-21T01:57:13.382433Z chinese-poetry/chinese-poetry: a11y 0/0, bug 0/0
+2026-10-21T01:57:16.880411Z lllyasviel/Fooocus: a11y 0/0, bug 200/336
+2026-10-21T01:57:17.408531Z necolas/normalize.css: a11y 0/0, bug 0/0
+2026-10-21T01:59:26.956457Z multica-ai/multica: a11y 0/0, bug 0/0
+2026-10-21T01:59:28.597464Z jesseduffield/lazydocker: a11y 0/0, bug 76/76
+2026-10-21T01:59:29.511861Z expo/expo: a11y 0/0, bug 24/24
+2026-10-21T01:59:33.194834Z ionic-team/ionic-framework: a11y 7/7, bug 200/696
+2026-10-21T01:59:33.456538Z rate limit reached; sleeping 54s
+2026-10-21T02:00:46.332468Z network error URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ; retrying in 8s
+2026-10-21T02:00:57.353183Z run-llama/llama_index: a11y 0/0, bug 200/2393
+2026-10-21T02:00:57.882244Z etcd-io/etcd: a11y 0/0, bug 0/0
+2026-10-21T02:00:58.399492Z prettier/prettier: a11y 0/0, bug 0/0
+2026-10-21T02:00:58.632161Z rate limit reached; sleeping 1s
+2026-10-21T02:00:59.968150Z dbeaver/dbeaver: a11y 0/0, bug 0/0
+2026-10-21T02:01:00.515538Z google/guava: a11y 0/0, bug 0/0
+2026-10-21T02:01:01.184584Z jekyll/jekyll: a11y 0/0, bug 4/4
+2026-10-21T02:01:01.697910Z DefinitelyTyped/DefinitelyTyped: a11y 0/0, bug 0/0
+2026-10-21T02:01:02.235051Z ethereum/go-ethereum: a11y 0/0, bug 0/0
+2026-10-21T02:02:14.732855Z justjavac/wechat-miniapp-radar: a11y 0/0, bug 0/0
+2026-10-21T02:02:17.806107Z skylot/jadx: a11y 0/0, bug 200/495
+2026-10-21T02:02:19.604109Z rate limit reached; sleeping 46s
+2026-10-21T02:03:07.960820Z cypress-io/cypress: a11y 0/0, bug 200/725
+2026-10-21T02:03:08.541522Z tldraw/tldraw: a11y 1/1, bug 0/0
+2026-10-21T02:03:09.044068Z Semantic-Org/Semantic-UI: a11y 0/0, bug 0/0
+2026-10-21T02:03:09.534358Z chenglou/pretext: a11y 0/0, bug 0/0
+2026-10-21T02:03:11.490410Z rate limit reached; sleeping 50s
+2026-10-21T02:04:02.959204Z upscayl/upscayl: a11y 0/0, bug 200/438
+2026-10-21T02:04:03.430299Z apple/container: a11y 0/0, bug 0/0
+2026-10-21T02:04:03.735905Z HTTP 403; sleeping 15s
+2026-10-21T02:06:39.829430Z nlohmann/json: a11y 0/0, bug 0/0
+2026-10-21T02:06:40.321342Z moeru-ai/airi: a11y 0/0, bug 0/0
+2026-10-21T02:06:42.083000Z HTTP 403; sleeping 58s
+2026-10-21T02:07:41.726996Z ClickHouse/ClickHouse: a11y 0/0, bug 200/1199
+2026-10-21T02:07:44.586576Z TanStack/query: a11y 0/0, bug 160/160
+2026-10-21T02:07:48.568699Z mastodon/mastodon: a11y 42/42, bug 200/1436
+2026-10-21T02:07:48.913308Z HTTP 403; sleeping 51s
+2026-10-21T02:09:23.817150Z QuantumNous/new-api: a11y 0/0, bug 200/467
+2026-10-21T02:09:27.212387Z AlistGo/alist: a11y 0/0, bug 200/2303
+2026-10-21T02:09:27.418532Z rate limit reached; sleeping 27s
+2026-10-21T02:09:57.261450Z pandas-dev/pandas: a11y 0/0, bug 200/2739
+2026-10-21T02:09:58.731075Z HTTP 403; sleeping 55s
+2026-10-21T02:10:55.522802Z team-spotube/spotube: a11y 0/0, bug 200/1223
+2026-10-21T02:10:56.293567Z huginn/huginn: a11y 0/0, bug 6/6
+2026-10-21T02:10:56.808424Z Homebrew/brew: a11y 0/0, bug 0/0
+2026-10-21T02:10:57.328738Z jgthms/bulma: a11y 0/0, bug 1/1
+2026-10-21T02:10:59.592922Z HTTP 403; sleeping 54s
+2026-10-21T02:13:51.537340Z hashicorp/terraform: a11y 0/0, bug 200/1851
+2026-10-21T02:13:54.654922Z x64dbg/x64dbg: a11y 0/0, bug 200/242
+2026-10-21T02:13:55.094657Z tmux/tmux: a11y 0/0, bug 0/0
+2026-10-21T02:13:55.490507Z rate limit reached; sleeping 53s
+2026-10-21T02:14:48.086655Z NARKOZ/hacker-scripts: a11y 0/0, bug 0/0
+2026-10-21T02:14:48.192860Z HTTP 403; sleeping 22s
+2026-10-21T02:15:11.484509Z DavidHDev/react-bits: a11y 0/0, bug 78/78
+2026-10-21T02:15:15.219710Z mudler/LocalAI: a11y 0/0, bug 200/548
+2026-10-21T02:15:15.672724Z metabase/metabase: a11y 0/0, bug 0/0
+2026-10-21T02:15:18.811122Z Aider-AI/aider: a11y 0/0, bug 200/238
+2026-10-21T02:16:04.334269Z HTTP 403; sleeping 16s
+2026-10-21T02:16:21.281381Z bigskysoftware/htmx: a11y 0/0, bug 62/62
+2026-10-21T02:16:21.760449Z HKUDS/nanobot: a11y 0/0, bug 0/0
+2026-10-21T02:16:21.849130Z HTTP 403; sleeping 53s
+2026-10-21T02:17:15.561709Z calcom/cal.diy: a11y 0/0, bug 0/0
+2026-10-21T02:17:16.034703Z bevyengine/bevy: a11y 0/0, bug 0/0
+2026-10-21T02:17:16.480019Z KeygraphHQ/shannon: a11y 0/0, bug 0/0
+2026-10-21T02:17:16.979091Z slidevjs/slidev: a11y 0/0, bug 0/0
+2026-10-21T02:17:17.456082Z iamkun/dayjs: a11y 0/0, bug 0/0
+2026-10-21T02:18:07.822156Z rate limit reached; sleeping 18s
+2026-10-21T02:18:26.290007Z pixijs/pixijs: a11y 0/0, bug 0/0
+2026-10-21T02:18:29.258931Z MHSanaei/3x-ui: a11y 0/0, bug 182/182
+2026-10-21T02:18:29.912220Z ReactiveX/RxJava: a11y 0/0, bug 4/4
+2026-10-21T02:18:30.772935Z hiroi-sora/Umi-OCR: a11y 0/0, bug 19/19
+2026-10-21T02:18:31.327823Z rate limit reached; sleeping 55s
+2026-10-21T02:19:26.097331Z exo-explore/exo: a11y 0/0, bug 6/6
+2026-10-21T02:19:26.593988Z abhigyanpatwari/GitNexus: a11y 0/0, bug 0/0
+2026-10-21T02:19:27.186107Z moment/moment: a11y 0/0, bug 3/3
+2026-10-21T02:19:27.661699Z gogs/gogs: a11y 0/0, bug 0/0
+2026-10-21T02:19:30.461292Z usebruno/bruno: a11y 0/0, bug 200/1125
+2026-10-21T02:19:30.741587Z HTTP 403; sleeping 56s
+2026-10-21T02:21:15.653021Z oobabooga/textgen: a11y 0/0, bug 200/2512
+2026-10-21T02:21:18.874713Z prisma/orm: a11y 0/0, bug 200/3892
+2026-10-21T02:21:19.486389Z slab/quill: a11y 3/3, bug 0/0
+2026-10-21T02:21:20.553568Z rate limit reached; sleeping 52s
+2026-10-21T02:22:13.111207Z 9001/copyparty: a11y 0/0, bug 53/53
+2026-10-21T02:22:13.214325Z HTTP 403; sleeping 39s
+2026-10-21T02:22:55.459722Z lysine-dev/okhttp: a11y 0/0, bug 200/350
+2026-10-21T02:22:56.017740Z DeusData/codebase-memory-mcp: a11y 0/0, bug 0/0
+2026-10-21T02:22:58.153371Z serverless/serverless: a11y 0/0, bug 76/76
+2026-10-21T02:22:59.011094Z v2ray/v2ray-core: a11y 0/0, bug 0/0
+2026-10-21T02:22:59.786467Z HTTP 403; sleeping 52s
+2026-10-21T02:24:23.471479Z microsoft/monaco-editor: a11y 15/15, bug 200/305
+2026-10-21T02:24:26.342361Z siyuan-note/siyuan: a11y 0/0, bug 200/1700
+2026-10-21T02:24:27.860881Z rate limit reached; sleeping 24s
+2026-10-21T02:24:53.298403Z iina/iina: a11y 0/0, bug 163/163
+2026-10-21T02:24:56.733824Z cli/cli: a11y 12/12, bug 200/1074
+2026-10-21T02:25:00.350336Z jgm/pandoc: a11y 0/0, bug 200/1213
+2026-10-21T02:25:00.846915Z helix-editor/helix: a11y 0/0, bug 0/0
+2026-10-21T02:25:01.069606Z rate limit reached; sleeping 51s
+2026-10-21T02:25:52.878170Z zhongyang219/TrafficMonitor: a11y 0/0, bug 33/33
+2026-10-21T02:25:53.382484Z DIYgod/RSSHub: a11y 0/0, bug 0/0
+2026-10-21T02:25:56.529715Z milvus-io/milvus: a11y 0/0, bug 200/6932
+2026-10-21T02:25:59.939397Z RocketChat/Rocket.Chat: a11y 5/5, bug 200/256
+2026-10-21T02:26:06.836393Z HTTP 403; sleeping 45s
+2026-10-21T02:26:52.535480Z files-community/Files: a11y 0/0, bug 0/0
+2026-10-21T02:26:53.234326Z vnpy/vnpy: a11y 0/0, bug 11/11
+2026-10-21T02:26:54.101428Z google/zx: a11y 0/0, bug 19/19
+2026-10-21T02:26:56.333488Z mitmproxy/mitmproxy: a11y 0/0, bug 116/116
+2026-10-21T02:26:56.890587Z rate limit reached; sleeping 55s
+2026-10-21T02:27:55.109766Z Leaflet/Leaflet: a11y 23/23, bug 200/250
+2026-10-21T02:27:58.270372Z getsentry/sentry: a11y 0/0, bug 200/858
+2026-10-21T02:28:07.329908Z HTTP 403; sleeping 17s
+2026-10-21T02:28:24.469319Z boykopovar/AnyPS5: a11y 0/0, bug 0/0
+2026-10-21T02:28:28.114254Z jestjs/jest: a11y 0/0, bug 200/872
+2026-10-21T02:28:29.059426Z charmbracelet/bubbletea: a11y 0/0, bug 39/39
+2026-10-21T02:28:32.293680Z rate limit reached; sleeping 52s
+2026-10-21T02:29:24.183934Z grpc/grpc: a11y 0/0, bug 200/1251
+2026-10-21T02:29:24.655880Z juspay/hyperswitch: a11y 0/0, bug 0/0
+2026-10-21T02:29:25.569823Z payloadcms/payload: a11y 0/0, bug 21/21
+2026-10-21T02:29:28.158661Z imputnet/cobalt: a11y 0/0, bug 180/180
+2026-10-21T02:29:31.734621Z zen-browser/desktop: a11y 0/0, bug 200/3671
+2026-10-21T02:30:56.574863Z HTTP 403; sleeping 46s
+2026-10-21T02:31:43.545022Z janhq/jan: a11y 0/0, bug 0/0
+2026-10-21T02:31:43.846961Z HTTP 403; sleeping 59s
+2026-10-21T02:32:44.819777Z react-hook-form/react-hook-form: a11y 0/0, bug 65/65
+2026-10-21T02:32:48.199438Z juanfont/headscale: a11y 0/0, bug 200/560
+2026-10-21T02:32:49.740886Z sharkdp/fd: a11y 0/0, bug 89/89
+2026-10-21T02:32:50.255931Z meteor/meteor: a11y 0/0, bug 0/0
+2026-10-21T02:32:51.521168Z mifi/lossless-cut: a11y 0/0, bug 40/40
+2026-10-21T02:32:51.819148Z HTTP 403; sleeping 53s
+2026-10-21T02:35:36.859714Z HTTP 403; sleeping 25s
+2026-10-21T02:36:02.637339Z vercel/hyper: a11y 0/0, bug 0/0
+2026-10-21T02:36:03.513218Z spf13/cobra: a11y 0/0, bug 21/21
+2026-10-21T02:36:05.785169Z AykutSarac/jsoncrack.com: a11y 0/0, bug 110/110
+2026-10-21T02:36:08.546529Z rate limit reached; sleeping 53s
+2026-10-21T02:37:02.189223Z ccxt/ccxt: a11y 0/0, bug 200/1092
+2026-10-21T02:37:02.301099Z HTTP 403; sleeping 22s
+2026-10-21T02:37:24.641764Z Wei-Shaw/sub2api: a11y 0/0, bug 0/0
+2026-10-21T02:37:25.101082Z vercel-labs/agent-browser: a11y 0/0, bug 0/0
+2026-10-21T02:37:25.394844Z HTTP 403; sleeping 38s
+2026-10-21T02:38:56.781013Z HTTP 403; sleeping 5s
+2026-10-21T02:39:03.099349Z Kong/kong: a11y 0/0, bug 50/50
+2026-10-21T02:39:03.565797Z apache/spark: a11y 0/0, bug 0/0
+2026-10-21T02:39:04.035597Z colinhacks/zod: a11y 0/0, bug 0/0
+2026-10-21T02:39:04.575477Z babel/babel: a11y 0/0, bug 0/0
+2026-10-21T02:39:04.774133Z rate limit reached; sleeping 54s
+2026-10-21T02:39:59.372388Z parcel-bundler/parcel: a11y 0/0, bug 0/0
+2026-10-21T02:39:59.883181Z streamich/react-use: a11y 0/0, bug 0/0
+2026-10-21T02:40:00.497488Z lysine-dev/retrofit: a11y 0/0, bug 6/6
+2026-10-21T02:40:00.937597Z astaxie/build-web-application-with-golang: a11y 0/0, bug 0/0
+2026-10-21T02:40:02.401744Z HeyPuter/puter: a11y 0/0, bug 82/82
+2026-10-21T02:40:02.662705Z HTTP 403; sleeping 56s
+2026-10-21T02:41:19.946345Z langchain-ai/langgraph: a11y 0/0, bug 65/65
+2026-10-21T02:41:20.425397Z Light-City/CPlusPlusThings: a11y 0/0, bug 0/0
+2026-10-21T02:41:20.928500Z Unitech/pm2: a11y 0/0, bug 0/0
+2026-10-21T02:41:23.692967Z ziglang/zig: a11y 0/0, bug 200/4438
+2026-10-21T02:41:23.918527Z rate limit reached; sleeping 55s
+2026-10-21T02:42:19.412207Z aria2/aria2: a11y 0/0, bug 1/1
+2026-10-21T02:42:19.946240Z curl/curl: a11y 0/0, bug 0/0
+2026-10-21T02:42:20.959378Z gkd-kit/gkd: a11y 0/0, bug 44/44
+2026-10-21T02:42:21.400379Z JustVugg/colibri: a11y 0/0, bug 0/0
+2026-10-21T02:42:24.728218Z HTTP 403; sleeping 54s
+2026-10-21T02:43:19.181478Z HTTP 403; sleeping 54s
+2026-10-21T02:44:15.733557Z FuelLabs/fuels-rs: a11y 0/0, bug 129/129
+2026-10-21T02:44:19.479097Z sxyazi/yazi: a11y 0/0, bug 200/302
+2026-10-21T02:44:22.458825Z FuelLabs/fuels-ts: a11y 0/0, bug 200/346
+2026-10-21T02:44:25.535867Z agno-agi/agno: a11y 0/0, bug 200/415
+2026-10-21T02:44:30.115550Z mingrammer/diagrams: a11y 0/0, bug 1/1
+2026-10-21T02:44:30.311636Z rate limit reached; sleeping 48s
+2026-10-21T02:45:18.906847Z exelban/stats: a11y 0/0, bug 38/38
+2026-10-21T02:45:19.573806Z 666ghj/BettaFish: a11y 0/0, bug 2/2
+2026-10-21T02:45:20.093279Z LizardByte/Sunshine: a11y 0/0, bug 0/0
+2026-10-21T02:45:23.449002Z AstrBotDevs/AstrBot: a11y 0/0, bug 200/605
+2026-10-21T02:45:23.937270Z rate limit reached; sleeping 54s
+2026-10-21T02:46:18.100177Z shiyu-coder/Kronos: a11y 0/0, bug 0/0
+2026-10-21T02:46:18.203825Z HTTP 403; sleeping 38s
+2026-10-21T02:47:01.275199Z duckdb/duckdb: a11y 0/0, bug 0/0
+2026-10-21T02:47:02.011186Z fastlane/fastlane: a11y 0/0, bug 3/3
+2026-10-21T02:47:03.226197Z rate limit reached; sleeping 52s
+2026-10-21T02:47:55.126206Z XTLS/Xray-core: a11y 0/0, bug 46/46
+2026-10-21T02:47:55.227391Z HTTP 403; sleeping 5s
+2026-10-21T02:48:00.769834Z tinyhumansai/openhuman: a11y 0/0, bug 0/0
+2026-10-21T02:48:01.588202Z chatboxai/chatbox: a11y 0/0, bug 28/28
+2026-10-21T02:48:02.173471Z psf/black: a11y 0/0, bug 0/0
+2026-10-21T02:48:02.364660Z rate limit reached; sleeping 57s
+2026-10-21T02:48:59.340053Z nolimits4web/swiper: a11y 0/0, bug 0/0
+2026-10-21T02:49:00.224052Z hexojs/hexo: a11y 0/0, bug 23/23
+2026-10-21T02:49:00.651913Z ManimCommunity/manim: a11y 0/0, bug 0/0
+2026-10-21T02:49:02.012705Z GyulyVGC/sniffnet: a11y 0/0, bug 68/68
+2026-10-21T02:49:07.259569Z rate limit reached; sleeping 52s
+2026-10-21T02:49:59.169454Z HTTP 403; sleeping 5s
+2026-10-21T02:50:04.852161Z dcloudio/uni-app: a11y 0/0, bug 117/117
+2026-10-21T02:50:05.291304Z apache/dubbo: a11y 0/0, bug 0/0
+2026-10-21T02:50:06.094256Z yarnpkg/yarn: a11y 0/0, bug 22/22
+2026-10-21T02:50:06.719911Z microsoft/BitNet: a11y 0/0, bug 0/0
+2026-10-21T02:50:07.811198Z facebookresearch/faiss: a11y 0/0, bug 30/30
+2026-10-21T02:50:08.000005Z rate limit reached; sleeping 57s
+2026-10-21T02:51:06.461016Z nwjs/nw.js: a11y 0/0, bug 92/92
+2026-10-21T02:51:12.877308Z appsmithorg/appsmith: a11y 0/0, bug 200/7638
+2026-10-21T02:51:13.379501Z styled-components/styled-components: a11y 0/0, bug 0/0
+2026-10-21T02:51:14.700794Z vuetifyjs/vuetify: a11y 64/64, bug 0/0
+2026-10-21T02:51:15.153340Z rate limit reached; sleeping 50s
+2026-10-21T02:52:05.088843Z bailicangdu/vue2-elm: a11y 0/0, bug 0/0
+2026-10-21T02:52:05.192364Z HTTP 403; sleeping 15s
+2026-10-21T02:52:20.690704Z qbittorrent/qBittorrent: a11y 4/4, bug 0/0
+2026-10-21T02:52:21.273832Z zai-org/ChatGLM-6B: a11y 0/0, bug 4/4
+2026-10-21T02:52:22.006245Z remoteintech/remote-jobs: a11y 0/0, bug 10/10
+2026-10-21T02:52:22.497159Z trpc/trpc: a11y 0/0, bug 0/0
+2026-10-21T02:52:22.962541Z nushell/nushell: a11y 0/0, bug 0/0
+2026-10-21T02:52:26.033648Z HTTP 403; sleeping 54s
+2026-10-21T02:53:20.546260Z chakra-ui/chakra-ui: a11y 0/0, bug 0/0
+2026-10-21T02:53:22.355535Z schollz/croc: a11y 0/0, bug 70/70
+2026-10-21T02:53:22.848281Z pingcap/tidb: a11y 0/0, bug 0/0
+2026-10-21T02:53:23.391760Z datalab-to/marker: a11y 0/0, bug 0/0
+2026-10-21T02:53:23.614642Z rate limit reached; sleeping 56s
+2026-10-21T02:54:20.366195Z anthropics/financial-services: a11y 0/0, bug 0/0
+2026-10-21T02:54:20.840281Z phaserjs/phaser: a11y 0/0, bug 0/0
+2026-10-21T02:54:23.903366Z php/php-src: a11y 0/0, bug 200/3224
+2026-10-21T02:54:24.249647Z HTTP 403; sleeping 40s
+2026-10-21T02:55:07.810121Z HTTP 403; sleeping 15s
+2026-10-21T02:55:26.728920Z frappe/erpnext: a11y 0/0, bug 200/3249
+2026-10-21T02:55:29.563159Z PostHog/posthog: a11y 0/0, bug 200/1905
+2026-10-21T02:55:30.570980Z ShareX/ShareX: a11y 0/0, bug 41/41
+2026-10-21T02:55:32.350864Z rate limit reached; sleeping 51s
+2026-10-21T02:56:24.386653Z aseprite/aseprite: a11y 0/0, bug 200/624
+2026-10-21T02:56:27.696976Z HKUDS/LightRAG: a11y 0/0, bug 200/200
+2026-10-21T02:56:31.281538Z TeamNewPipe/NewPipe: a11y 3/3, bug 200/620
+2026-10-21T02:56:31.769333Z gofiber/fiber: a11y 0/0, bug 0/0
