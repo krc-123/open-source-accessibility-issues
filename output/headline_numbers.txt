@@ -1,0 +1,8 @@
+Repositories: 400 collected; 27 (7%) had at least one accessibility-labeled issue opened Jan 2022 to Jun 2025; 12 had 10 or more
+Repositories with both groups: 809 accessibility and 3475 bug issues in 19 repositories
+Closed within 90 days: accessibility 51%, bug 55%; within a year: 63% vs 68%; closed by Oct 2026: 74% vs 75%
+Kaplan-Meier median days to close: accessibility 79, bug 53
+Cox hazard ratio, accessibility vs bug within repository: 0.61 (95% CI 0.54 to 0.69); without vscode 0.30 (0.25 to 0.37)
+Closed as not planned: accessibility 12%, bug 9%
+Largest category: screen_reader (512 issues, 50% of accessibility issues); no keyword match: 257
+microsoft/vscode alone: 500 of 1014 accessibility issues collected
