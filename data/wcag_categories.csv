@@ -1,0 +1,11 @@
+category,wcag_criteria,regex
+screen_reader,"4.1.2 Name, Role, Value; 1.3.1 Info and Relationships",screen ?reader|voice ?over|\bnvda\b|\bjaws\b|talkback|narrator|\baria\b|aria-?label|accessible (name|view)|accessibility (signal|sound|chime|verbosity)|role=|announce|\blabel(l)?ed\b|alt text|alt attribute|semantic|landmark|live region|assistive tech|verbosity
+keyboard_focus,2.1.1 Keyboard; 2.4.7 Focus Visible; 2.4.3 Focus Order,keyboard|\bfocus|\btab ?(key|order|index|stop|navigation|bing)\b|shortcut|hotkey|arrow key|escape key|\benter key|focus trap|focusable
+contrast_color,1.4.3 Contrast; 1.4.1 Use of Color; 1.4.11 Non-text Contrast,contrast|high.contrast|color.?blind|colou?r (alone|only)|forced.colors|dark mode.*(read|see|visib)|hard to (read|see)|unreadable|legib|low.vision|\bwcag\b.*(aa|contrast)|theme.*(read|visib)
+zoom_text_size,1.4.4 Resize Text; 1.4.10 Reflow; 1.4.12 Text Spacing,\bzoom|font.?size|text.?size|scal(e|ing) (text|font|ui)|\breflow|magnif|large text|text spacing|200%|dpi
+motion_animation,"2.3.3 Animation from Interactions; 2.2.2 Pause, Stop, Hide",reduce[d]? motion|prefers-reduced-motion|animation|flash(ing)?|blink|autoplay|parallax|vestibular
+captions_media,1.2.x Time-based Media; 1.1.1 Non-text Content,caption|subtitle|transcript|audio description|sign language
+forms_errors,3.3.1 Error Identification; 3.3.2 Labels or Instructions; 1.3.5 Identify Input Purpose,form (field|input|error|validation)|error message|required field|autocomplete|input purpose|placeholder
+touch_target_pointer,2.5.5 Target Size; 2.5.1 Pointer Gestures; 2.5.7 Dragging,touch target|target size|tap target|hit area|drag(ging)? (and drop|gesture)|pointer gesture|click area
+language_reading,3.1.x Readable; 3.2.x Predictable,\blang(uage)? attribute|right-to-left|\brtl\b|dyslexi|plain language|reading level
+timing,2.2.1 Timing Adjustable,time ?out|session expir|time limit

@@ -1,0 +1,401 @@
+repo,stars,language,created_at,open_issues,description,a11y_issues_total,a11y_issues_collected,bug_issues_total,bug_issues_collected,collected
+openclaw/openclaw,392682,TypeScript,2025-11-24,9689,The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ,0,0,0,0,1
+NousResearch/hermes-agent,255592,Python,2025-07-22,50188,The agent that grows with you,0,0,0,0,1
+react/react,251589,JavaScript,2013-05-24,1476,The library for web and native user interfaces.,0,0,511,200,1
+vuejs/vue,212643,TypeScript,2013-07-29,640,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",0,0,7,7,1
+n8n-io/n8n,208157,TypeScript,2019-06-22,1209,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",0,0,0,0,1
+yt-dlp/yt-dlp,199726,Python,2020-10-26,2726,A feature-rich command-line audio/video downloader,0,0,579,200,1
+ultraworkers/claw-code,195037,Rust,2026-03-31,1,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",0,0,0,0,1
+microsoft/vscode,194166,TypeScript,2015-09-03,21995,Visual Studio Code,1416,500,13877,200,1
+firecrawl/firecrawl,193491,TypeScript,2024-04-15,638,Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥,0,0,230,200,1
+microsoft/markitdown,191316,Python,2024-11-13,732,Python tool for converting files and office documents to Markdown.,0,0,14,14,1
+Significant-Gravitas/AutoGPT,187676,Python,2023-03-16,700,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",0,0,326,200,1
+ollama/ollama,184070,Go,2023-06-26,4371,"Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",0,0,3577,200,1
+flutter/flutter,180312,Dart,2015-03-06,13417,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,0,0,0,0,1
+open-webui/open-webui,156304,Python,2023-10-06,181,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",0,0,883,200,1
+langflow-ai/langflow,155870,Python,2023-02-08,1175,Langflow is a powerful tool for building and deploying AI-powered agents and workflows.,0,0,1423,200,1
+clash-verge-rev/clash-verge-rev,152746,Rust,2023-11-21,534,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",0,0,1985,200,1
+Genymobile/scrcpy,152657,C,2017-11-21,2933,Display and control your Android device,0,0,1,1,1
+langchain-ai/langchain,148158,Python,2022-10-17,657,The agent engineering platform.,0,0,3753,100,1
+vercel/next.js,143095,JavaScript,2016-10-05,3727,The React Framework,0,0,7657,200,1
+github/spec-kit,142151,Python,2025-08-21,175,💫 Toolkit to help you get started with SDD or any other process!,0,0,0,0,1
+ytdl-org/youtube-dl,141359,Python,2010-10-31,4123,Command-line program to download videos from YouTube.com and other video sites,0,0,7,7,1
+Comfy-Org/ComfyUI,140760,Python,2023-01-17,5302,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",0,0,58,58,1
+golang/go,139381,Go,2014-08-19,10385,The Go programming language,0,0,0,0,1
+garrytan/gstack,137082,TypeScript,2026-03-11,58,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",0,0,0,0,1
+excalidraw/excalidraw,134281,TypeScript,2020-01-02,3366,Virtual whiteboard for sketching hand-drawn like diagrams,2,2,358,200,1
+harry0703/MoneyPrinterTurbo,133434,Python,2024-03-11,75,利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.,0,0,93,93,1
+ggml-org/llama.cpp,131852,C++,2023-03-10,2563,LLM inference in C/C++,0,0,294,200,1
+kubernetes/kubernetes,128452,Go,2014-06-06,3225,Production-Grade Container Scheduling and Management,0,0,3305,200,1
+react/react-native,126739,C++,2015-01-09,1203,A framework for building native applications using React,18,18,22,22,1
+rustdesk/rustdesk,126448,Rust,2020-09-28,205,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",0,0,2482,200,1
+shadcn-ui/ui,126050,TypeScript,2023-01-04,1777,"Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",0,0,1274,200,1
+electron/electron,123432,C++,2013-04-12,751,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",12,12,0,0,1
+nodejs/node,122482,JavaScript,2014-11-26,1251,Node.js JavaScript runtime ✨🐢🚀✨,0,0,0,0,1
+rust-lang/rust,120615,Rust,2010-06-16,12625,Empowering everyone to build reliable and efficient software.,0,0,0,0,1
+godotengine/godot,118763,C++,2014-01-04,18907,Godot Engine – Multi-platform 2D and 3D game engine,0,0,17916,200,1
+2dust/v2rayN,118674,C#,2019-07-30,40,"A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",0,0,2136,200,1
+browser-use/browser-use,118670,Python,2024-10-31,571,"Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",0,0,515,200,1
+immich-app/immich,116777,TypeScript,2022-02-03,717,High performance self-hosted photo and video management solution.,5,5,0,0,1
+mrdoob/three.js,116679,JavaScript,2010-03-23,389,JavaScript 3D Library.,0,0,213,200,1
+supabase/supabase,112462,TypeScript,2019-10-12,1175,"The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",1,1,2492,200,1
+TauricResearch/TradingAgents,112342,Python,2024-12-28,105,TradingAgents: Multi-Agents LLM Financial Trading Framework,0,0,0,0,1
+tauri-apps/tauri,112063,Rust,2019-07-13,1485,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",0,0,3228,200,1
+microsoft/TypeScript,111542,Go,2014-06-17,5144,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,0,0,2042,200,1
+fatedier/frp,110023,Go,2015-12-21,34,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,0,0,12,12,1
+axios/axios,109304,JavaScript,2014-08-18,111,Promise based HTTP client for the browser and node.js,0,0,0,0,1
+denoland/deno,108722,Rust,2018-05-15,1720,A modern runtime for JavaScript and TypeScript.,0,0,2441,200,1
+google-gemini/gemini-cli,107476,TypeScript,2025-04-17,755,An open-source AI agent that brings the power of Gemini directly into your terminal.,0,0,462,200,1
+microsoft/terminal,105200,C++,2017-08-11,1780,"The new Windows Terminal and the original Windows console host, all in the same place!",100,100,0,0,1
+deepseek-ai/DeepSeek-V3,104531,Python,2024-12-26,295,,0,0,0,0,1
+react/create-react-app,103232,JavaScript,2016-07-17,2409,Set up a modern web app by running one command.,0,0,0,0,1
+angular/angular,101101,TypeScript,2014-09-18,1183,Deliver web apps with confidence 🚀,8,8,230,200,1
+Panniantong/Agent-Reach,100299,Python,2026-02-24,231,"Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",0,0,0,0,1
+ant-design/ant-design,99827,TypeScript,2015-04-24,1115,An enterprise-class UI design language and React UI library,0,0,0,0,1
+mui/material-ui,99255,JavaScript,2014-08-18,1517,Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.,147,147,755,200,1
+karpathy/autoresearch,98237,Python,2026-03-06,195,AI agents running research on single-GPU nanochat training automatically,0,0,0,0,1
+microsoft/playwright,98173,TypeScript,2019-11-15,178,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",0,0,0,0,1
+tailwindlabs/tailwindcss,97945,TypeScript,2017-10-06,90,A utility-first CSS framework for rapid UI development.,0,0,25,25,1
+nvbn/thefuck,97915,Python,2015-04-08,461,Magnificent app which corrects your previous console command.,0,0,0,0,1
+hacksider/Deep-Live-Cam,97152,Python,2023-09-24,48,real time face swap and one-click video deepfake with only a single image,0,0,0,0,1
+oven-sh/bun,96321,Rust,2021-04-14,9086,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",0,0,7919,200,1
+puppeteer/puppeteer,95724,TypeScript,2017-05-09,247,JavaScript API for Chrome and Firefox,0,0,1408,200,1
+OpenCut-app/OpenCut,95500,TypeScript,2025-06-22,384,The open-source CapCut alternative,0,0,26,26,1
+3b1b/manim,95432,Python,2015-03-22,505,Animation engine for explanatory math videos,0,0,121,121,1
+localsend/localsend,95055,Dart,2022-12-16,1023,An open-source cross-platform alternative to AirDrop,0,0,296,200,1
+Stirling-Tools/Stirling-PDF,94627,TypeScript,2023-01-27,537,#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere,0,0,163,163,1
+sherlock-project/sherlock,94601,Python,2018-12-24,350,Hunt down social media accounts by username across social networks,0,0,108,108,1
+vllm-project/vllm,94432,Python,2023-02-09,9148,A high-throughput and memory-efficient inference and serving engine for LLMs,0,0,3810,200,1
+odysseus-dev/odysseus,94081,Python,2026-05-31,1473,Self-hosted AI workspace. ,0,0,0,0,1
+louislam/uptime-kuma,92686,JavaScript,2021-07-03,848,A fancy self-hosted monitoring tool,0,0,578,200,1
+infiniflow/ragflow,92550,Go,2023-12-12,1351,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,0,0,0,0,1
+NationalSecurityAgency/ghidra,92152,Java,2019-03-01,2134,Ghidra is a software reverse engineering (SRE) framework,0,0,130,130,1
+zed-industries/zed,91964,Rust,2021-02-20,3115,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",0,0,4706,200,1
+home-assistant/core,91617,Python,2013-09-17,3421,:house_with_garden: Open source home automation that puts local control and privacy first.,0,0,40,40,1
+PaddlePaddle/PaddleOCR,91435,Python,2020-05-08,251,"Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",0,0,113,113,1
+modelcontextprotocol/servers,91428,TypeScript,2024-11-19,137,Model Context Protocol Servers,0,0,256,200,1
+OpenHands/OpenHands,91415,TypeScript,2024-03-13,1071,🙌 OpenHands: AI-Driven Development,0,0,1743,200,1
+astral-sh/uv,90953,Rust,2023-10-02,2987,"An extremely fast Python package and project manager, written in Rust.",0,0,1652,200,1
+mermaid-js/mermaid,90775,TypeScript,2014-11-01,1938,Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown,0,0,0,0,1
+bitcoin/bitcoin,90450,C++,2010-12-19,770,Bitcoin Core integration/staging tree,0,0,272,200,1
+gohugoio/hugo,90181,Go,2013-07-04,215,The world’s fastest framework for building websites.,0,0,1207,200,1
+syncthing/syncthing,89564,Go,2013-11-26,390,Open Source Continuous File Synchronization,0,0,533,200,1
+gin-gonic/gin,89394,Go,2014-06-16,806,Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui,0,0,0,0,1
+koala73/worldmonitor,88938,TypeScript,2026-01-08,349,"Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",0,0,0,0,1
+D4Vinci/Scrapling,88886,Python,2024-10-13,11,"🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https",0,0,15,15,1
+ChatGPTNextWeb/NextChat,88877,TypeScript,2023-03-10,854,"✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS",0,0,671,200,1
+unclecode/crawl4ai,85933,Python,2024-05-09,267,"Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m",0,0,0,0,1
+macrozheng/mall,84934,Java,2018-04-04,16,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,0,0,0,0,1
+realworld-apps/realworld,84309,TypeScript,2016-02-26,30,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",0,0,41,41,1
+bytedance/deer-flow,84209,Python,2025-05-07,972,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",0,0,7,7,1
+fighting41love/funNLP,84042,Python,2018-08-21,54,中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名,0,0,0,0,1
+pbakaus/impeccable,83843,Rust,2025-11-16,44,The design language that makes your AI harness better at design.,0,0,0,0,1
+junegunn/fzf,83703,Go,2013-10-23,336,:cherry_blossom: A command-line fuzzy finder,0,0,84,84,1
+vitejs/vite,83420,TypeScript,2020-04-21,817,Next generation frontend tooling. It's fast!,0,0,0,0,1
+jesseduffield/lazygit,83331,Go,2018-05-19,1048,simple terminal UI for git commands,0,0,673,200,1
+animate-css/animate.css,82898,CSS,2011-10-12,81,🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.,0,0,20,20,1
+opendatalab/MinerU,82137,Python,2024-02-29,17,Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.,0,0,849,200,1
+tonsky/FiraCode,82115,Clojure,2014-11-11,428,Free monospaced font with programming ligatures,0,0,3,3,1
+spring-projects/spring-boot,81758,Java,2012-10-19,499,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",0,0,1424,200,1
+Z4nzu/hackingtool,81179,Python,2020-04-11,127,ALL IN ONE Hacking Tool For Hackers,0,0,6,6,1
+666ghj/MiroFish,80870,Python,2025-11-26,158,"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",0,0,0,0,1
+hoppscotch/hoppscotch,80667,TypeScript,2019-08-21,857,"Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",1,1,797,200,1
+abi/screenshot-to-code,80573,Python,2023-11-14,148,Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue),0,0,8,8,1
+ventoy/Ventoy,80234,C,2020-03-10,1010,A new bootable USB solution.,0,0,36,36,1
+anuraghazra/github-readme-stats,79842,JavaScript,2020-07-09,295,:zap: Dynamically generated stats for your github readmes,0,0,293,200,1
+coder/code-server,79659,TypeScript,2019-02-27,156,VS Code in the browser,0,0,503,200,1
+debpalash/VoiceStudio,78967,Python,2026-04-09,280,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",0,0,0,0,1
+elastic/elasticsearch,78330,Java,2010-02-08,6145,"Free and Open Source, Distributed, RESTful Search Engine",0,0,0,0,1
+caddyserver/caddy,78192,Go,2015-01-13,293,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,0,0,0,0,1
+obsproject/obs-studio,77834,C,2013-10-01,1168,OBS Studio - Free and open source software for live streaming and screen recording,0,0,0,0,1
+python/cpython,77731,Python,2017-02-10,9638,The Python programming language,0,0,0,0,1
+grafana/grafana,77398,TypeScript,2013-12-11,3339,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",0,0,0,0,1
+nomic-ai/gpt4all,77350,C++,2023-03-27,775,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,6,6,189,189,1
+redis/redis,77034,C,2009-03-21,3054,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",0,0,0,0,1
+nestjs/nest,76868,TypeScript,2017-02-04,32,"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",0,0,0,0,1
+ocornut/imgui,76753,C++,2014-07-21,1222,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,0,0,194,194,1
+hiyouga/LlamaFactory,75603,Python,2023-05-28,1198,Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024),0,0,229,200,1
+apache/superset,75233,Python,2015-07-21,610,Apache Superset is a Data Visualization and Data Exploration Platform,0,0,0,0,1
+Eugeny/tabby,75045,TypeScript,2016-12-23,2845,A terminal for a more modern age,0,0,0,0,1
+pallets/flask,74943,Python,2010-04-06,4,The Python micro framework for building web applications.,0,0,0,0,1
+colbymchenry/codegraph,74541,C,2026-01-18,596,"Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca",0,0,0,0,1
+juliangarnier/anime,73740,JavaScript,2016-03-13,124,JavaScript animation engine,0,0,30,30,1
+unionlabs/union,73733,Rust,2023-05-16,196,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",0,0,14,14,1
+strapi/strapi,73355,TypeScript,2015-09-30,616,"🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",0,0,4,4,1
+hakimel/reveal.js,72449,JavaScript,2011-06-07,928,The HTML Presentation Framework,0,0,4,4,1
+nektos/act,72391,Go,2019-01-02,398,Run your GitHub Actions locally 🚀,0,0,480,200,1
+moby/moby,72197,Go,2013-01-18,3938,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,0,0,1030,200,1
+protocolbuffers/protobuf,72126,C++,2014-08-26,387,Protocol Buffers - Google's data interchange format,0,0,63,63,1
+binary-husky/gpt_academic,71516,Python,2023-03-20,331,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss",0,0,63,63,1
+ansible/ansible,71036,Python,2012-03-06,861,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ,1,1,1937,200,1
+FoundationAgents/MetaGPT,70940,Python,2023-06-30,139,"🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",0,0,22,22,1
+swiftlang/swift,70512,Swift,2015-10-23,9494,The Swift Programming Language,0,0,3723,200,1
+usestrix/strix,70443,Python,2025-08-05,488,Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.,0,0,0,0,1
+storytold/photocraft,69664,Rust,2026-09-30,2911,"PhotoCraft: An open-source, photo editor written by scratch in pure Rust",0,0,0,0,1
+expressjs/express,69572,JavaScript,2009-06-26,242,"Fast, unopinionated, minimalist web framework for node.",0,0,55,55,1
+dani-garcia/vaultwarden,69362,Rust,2018-02-17,103,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",0,0,345,200,1
+BurntSushi/ripgrep,69284,Rust,2016-03-11,219,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,0,0,39,39,1
+docling-project/docling,69219,Python,2024-07-09,896,Get your documents ready for gen AI,0,0,448,200,1
+gorhill/uBlock,68709,JavaScript,2015-04-01,15,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.,0,0,0,0,1
+heygen-com/hyperframes,68502,TypeScript,2026-03-10,396,Write HTML. Render video. Built for agents.,0,0,0,0,1
+chartjs/Chart.js,67752,JavaScript,2013-03-17,611,Simple HTML5 Charts using the <canvas> tag,0,0,576,200,1
+apache/echarts,67560,TypeScript,2013-04-03,1483,"Apache ECharts is a powerful, interactive charting and data visualization library for browser",2,2,2142,200,1
+mem0ai/mem0,67541,Python,2023-06-20,857,The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.,0,0,115,115,1
+NanmiCoder/MediaCrawler,67472,Python,2023-06-09,216,小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫,0,0,41,41,1
+Mintplex-Labs/anything-llm,67365,JavaScript,2023-06-04,334,Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ,0,0,112,112,1
+ZhuLinsen/daily_stock_analysis,66785,Python,2026-01-10,40,"LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f",0,0,0,0,1
+prometheus/prometheus,66665,Go,2012-11-24,1013,The Prometheus monitoring system and time series database.,0,0,143,143,1
+LadybirdBrowser/ladybird,66597,C++,2024-05-30,573,Truly independent web browser,0,0,362,200,1
+facebook/docusaurus,66540,TypeScript,2017-06-20,422,Easy to maintain open source documentation websites.,0,0,699,200,1
+leonardomso/33-js-concepts,66529,JavaScript,2018-09-04,9,📜 33 JavaScript concepts every developer should know.,0,0,0,0,1
+alacritty/alacritty,66010,Rust,2016-02-18,343,"A cross-platform, OpenGL terminal emulator.",0,0,0,0,1
+webpack/webpack,65971,JavaScript,2012-03-10,117,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AM",0,0,142,142,1
+remotion-dev/remotion,65630,TypeScript,2020-06-23,179,🎥      Make videos programmatically with React,0,0,503,200,1
+warpdotdev/warp,65598,Rust,2021-07-08,5451,"Warp is an agentic development environment, born out of the terminal.",13,13,3407,200,1
+nocodb/nocodb,65309,TypeScript,2017-10-29,720,🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative,0,0,0,0,1
+traefik/traefik,65294,Go,2015-09-13,951,The Cloud Native Application Proxy,0,0,0,0,1
+scrapy/scrapy,64920,Python,2010-02-22,181,"Scrapy, a fast high-level web crawling & scraping framework for Python.",0,0,103,103,1
+rust-lang/rustlings,64404,Rust,2015-09-15,38,:crab: Small exercises to get you used to reading and writing Rust code!,0,0,0,0,1
+2dust/v2rayNG,64357,Kotlin,2019-05-15,40,"A V2Ray client for Android, support Xray core and v2fly core",0,0,12,12,1
+virattt/ai-hedge-fund,64112,Python,2024-11-29,182,An AI Hedge Fund Team,0,0,74,74,1
+jingyaogong/minimind,64049,Python,2024-07-27,67,🧠 Train a 64M-parameter LLM from scratch in just 2h!,0,0,5,5,1
+karpathy/nanoGPT,63956,Python,2022-12-28,353,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",0,0,0,0,1
+commaai/openpilot,63953,Python,2016-11-24,133,"openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",0,0,820,200,1
+jgraph/drawio-desktop,63574,JavaScript,2017-05-25,4,Official electron build of draw.io,0,0,18,18,1
+topjohnwu/Magisk,63398,Kotlin,2016-09-08,39,The Magic Mask for Android,0,0,0,0,1
+withastro/astro,63349,TypeScript,2021-03-15,104,The web framework for content-driven websites.,0,0,0,0,1
+coollabsio/coolify,63301,PHP,2021-01-25,396,"An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",0,0,0,0,1
+RVC-Boss/GPT-SoVITS,63288,Python,2024-01-14,898,1 min voice data can also be used to train a good TTS model! (few shot voice cloning),0,0,12,12,1
+socketio/socket.io,63220,TypeScript,2010-03-11,187,Bidirectional and low-latency communication for every platform,0,0,55,55,1
+termux/termux-app,63075,Java,2015-10-23,644,Termux - a terminal emulator application for Android OS extendible by variety of packages.,0,0,473,200,1
+sansan0/TrendRadar,63054,Python,2025-04-28,32,"⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，",0,0,0,0,1
+resume/resume.github.com,62911,JavaScript,2011-02-06,78,Resumes generated using the GitHub informations,0,0,0,0,1
+marktext/marktext,62904,TypeScript,2017-11-12,295,"📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",0,0,0,0,1
+ghostty-org/ghostty,62441,Zig,2022-03-29,255,"👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",0,0,0,0,1
+tw93/Pake,62222,Rust,2022-10-14,2,"Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",0,0,155,155,1
+Alishahryar1/free-claude-code,62183,Python,2026-01-28,304,"Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul",0,0,0,0,1
+BerriAI/litellm,61673,Python,2023-07-27,5510,"The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi",0,0,3036,200,1
+pocketbase/pocketbase,61514,Go,2022-07-05,19,Open Source realtime backend in 1 file,0,0,15,15,1
+microsoft/autogen,61503,Python,2023-08-18,1121,A programming framework for agentic AI,0,0,0,0,1
+reduxjs/redux,61456,TypeScript,2015-05-29,15,A JS library for predictable global state management,0,0,0,0,1
+penpot/penpot,61434,Clojure,2015-12-29,861,Penpot: The open-source design platform for Product teams that need scalable collaboration.,0,0,789,200,1
+FuelLabs/sway,61376,Rust,2021-01-19,956,🌴 Empowering everyone to build reliable and efficient smart contracts.,0,0,909,200,1
+lodash/lodash,61287,JavaScript,2012-04-07,122,"A modern JavaScript utility library delivering modularity, performance, & extras.",0,0,65,65,1
+makeplane/plane,61188,TypeScript,2022-11-19,1139,"🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",0,0,0,0,1
+nuxt/nuxt,60973,TypeScript,2016-10-26,477,The full-stack Vue framework.,3,3,107,107,1
+sharkdp/bat,60873,Rust,2018-04-21,567,A cat(1) clone with wings.,0,0,228,200,1
+rclone/rclone,60444,Go,2014-03-16,1236,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",0,0,275,200,1
+starship/starship,60364,Rust,2019-04-02,1050,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",0,0,0,0,1
+spring-projects/spring-framework,60290,Java,2010-12-08,519,Spring Framework,0,0,741,200,1
+adam-p/markdown-here,60255,JavaScript,2012-05-13,319,"Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",0,0,0,0,1
+crewAIInc/crewAI,59926,Python,2023-10-27,782,"Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",0,0,536,200,1
+jquery/jquery,59917,JavaScript,2009-04-03,97,jQuery JavaScript Library,0,0,9,9,1
+FiloSottile/mkcert,59756,Go,2018-06-25,177,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,0,0,0,0,1
+meta-llama/llama,59633,Python,2023-02-14,537,Inference code for Llama models,0,0,6,6,1
+meilisearch/meilisearch,59616,Rust,2018-04-23,320,A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.,0,0,412,200,1
+shadowsocks/shadowsocks-windows,59523,C#,2013-01-14,202,A C# port of shadowsocks,0,0,0,0,1
+pmndrs/zustand,58845,TypeScript,2019-04-09,8,🐻 Bear necessities for state management in React,0,0,2,2,1
+rails/rails,58839,Ruby,2008-04-11,1685,Ruby on Rails,0,0,0,0,1
+karpathy/nanochat,58816,Python,2025-10-13,122,The best ChatGPT that $100 can buy.,0,0,0,0,1
+pathwaycom/serviette,58782,Python,2023-07-19,8,A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.,0,0,3,3,1
+twentyhq/twenty,58748,TypeScript,2022-12-01,125,"The open alternative to Salesforce, designed for AI.",0,0,0,0,1
+FoundationAgents/OpenManus,58747,Python,2025-03-06,441,"No fortress, purely open ground.  OpenManus is Coming.",0,0,84,84,1
+go-gitea/gitea,58591,Go,2016-11-01,2206,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",0,0,0,0,1
+bilawalsidhu/gods-eye-view,58537,JavaScript,2026-06-22,405,"A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",0,0,0,0,1
+jellyfin/jellyfin,58304,C#,2018-12-09,792,The Free Software Media System - Server Backend & API,0,0,2982,200,1
+jamiepine/voicebox,58110,Python,2026-01-25,518,"The open-source AI voice studio. Clone, dictate, create.",0,0,0,0,1
+appwrite/appwrite,57741,TypeScript,2019-04-08,809,"The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",0,0,1595,200,1
+Textualize/rich,57590,Python,2019-11-10,385,Rich is a Python library for rich text and beautiful formatting in the terminal.,0,0,25,25,1
+agalwood/Motrix,57138,TypeScript,2018-12-18,155,A full-featured download manager.,0,0,0,0,1
+chen08209/FlClash,57084,Dart,2023-08-15,427,"A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",0,0,0,0,1
+Zie619/n8n-workflows,57031,Python,2025-05-14,42,all of the workflows of n8n i could find (also from the site itself),0,0,0,0,1
+FuelLabs/fuel-core,56790,Rust,2020-08-27,217,Rust full node implementation of the Fuel v2 protocol.,0,0,73,73,1
+remix-run/react-router,56612,TypeScript,2014-05-16,240,Declarative routing for React,0,0,1400,200,1
+gatsbyjs/gatsby,55937,JavaScript,2015-05-21,457,"React-based framework with performance, scalability, and security built in.",0,0,683,200,1
+PowerShell/PowerShell,55874,C#,2016-01-13,1609,PowerShell for every system!,0,0,0,0,1
+router-for-me/CLIProxyAPI,55816,Go,2025-07-01,729,"Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie",0,0,0,0,1
+freqtrade/freqtrade,55670,Python,2017-05-17,30,"Free, open source crypto trading bot",0,0,168,168,1
+HKUDS/CLI-Anything,55668,Python,2026-03-08,208,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",0,0,0,0,1
+bannedbook/fanqiang,55659,Kotlin,2015-01-14,339,翻墙-科学上网,0,0,0,0,1
+TryGhost/Ghost,55578,TypeScript,2013-05-04,201,"Independent technology for modern publishing, memberships, subscriptions and newsletters.",0,0,249,200,1
+WerWolv/ImHex,55484,C++,2020-11-10,414,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",0,0,568,200,1
+aaif-goose/goose,55465,Rust,2024-08-23,500,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",0,0,0,0,1
+odoo/odoo,55198,Python,2014-05-13,11100,Odoo. Open Source Apps To Grow Your Business.,0,0,0,0,1
+microsoft/VibeVoice,54899,Python,2025-08-25,201,Open-Source Frontier Voice AI,0,0,0,0,1
+vuejs/core,54708,TypeScript,2018-06-12,921,"🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",0,0,0,0,1
+wagoodman/dive,54657,Go,2018-05-13,219,A tool for exploring each layer in a docker image,0,0,51,51,1
+lyswhut/lx-music-desktop,54605,TypeScript,2019-08-14,1296,一个基于 Electron 的音乐软件,0,0,56,56,1
+psf/requests,54532,Python,2011-02-13,244,"A simple, yet elegant, HTTP library.",0,0,4,4,1
+ggml-org/whisper.cpp,54517,C++,2022-09-25,354,Port of OpenAI's Whisper model in C/C++,0,0,100,100,1
+bmad-code-org/BMAD-METHOD,54383,Python,2025-04-13,78,Breakthrough Method for Agile Ai Driven Development,0,0,0,0,1
+mozilla/pdf.js,54027,JavaScript,2011-04-26,469,PDF Reader in JavaScript,16,16,0,0,1
+ElemeFE/element,54011,Vue,2016-09-03,2967,A Vue.js 2.0 UI Toolkit for Web,0,0,0,0,1
+chinese-poetry/chinese-poetry,53791,JavaScript,2016-09-02,138,"The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",0,0,0,0,1
+lllyasviel/Fooocus,53615,Python,2023-08-09,315,Focus on prompting and generating,0,0,336,200,1
+necolas/normalize.css,53503,CSS,2011-05-04,75,A modern alternative to CSS resets,0,0,0,0,1
+multica-ai/multica,53325,Go,2026-01-13,1886,Make humans and AI agents work as one team — open-source and self-hostable.,0,0,0,0,1
+jesseduffield/lazydocker,53172,Go,2019-05-18,309,The lazier way to manage everything docker,0,0,76,76,1
+expo/expo,52879,TypeScript,2016-08-15,944,"An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",0,0,24,24,1
+ionic-team/ionic-framework,52715,TypeScript,2013-08-20,516,"A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",7,7,696,200,1
+run-llama/llama_index,52583,Python,2022-11-02,1005,LlamaIndex is the document processing platform for AI,0,0,2393,200,1
+etcd-io/etcd,52406,Go,2013-07-06,405,Distributed reliable key-value store for the most critical data of a distributed system,0,0,0,0,1
+prettier/prettier,52375,JavaScript,2016-11-29,1448,Prettier is an opinionated code formatter.,0,0,0,0,1
+dbeaver/dbeaver,52151,Java,2015-10-21,3366,Free universal database tool and SQL client,0,0,0,0,1
+google/guava,51915,Java,2014-05-29,755,Google core libraries for Java,0,0,0,0,1
+jekyll/jekyll,51722,Ruby,2008-10-20,256,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,0,0,4,4,1
+DefinitelyTyped/DefinitelyTyped,51449,TypeScript,2012-10-05,727,The repository for high quality TypeScript type definitions.,0,0,0,0,1
+ethereum/go-ethereum,51405,Go,2013-12-26,482,Go implementation of the Ethereum protocol,0,0,0,0,1
+justjavac/wechat-miniapp-radar,51177,TypeScript,2016-09-22,1,:traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具,0,0,0,0,1
+skylot/jadx,51132,Java,2013-03-18,459,Dex to Java decompiler,0,0,495,200,1
+cypress-io/cypress,51018,TypeScript,2015-03-04,1137,"Fast, easy and reliable testing for anything that runs in a browser.",0,0,725,200,1
+tldraw/tldraw,51014,TypeScript,2021-05-09,560,"Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",1,1,0,0,1
+Semantic-Org/Semantic-UI,51009,JavaScript,2013-04-08,1071,Semantic is a UI component framework based around useful principles from natural language.,0,0,0,0,1
+chenglou/pretext,50856,TypeScript,2026-03-07,65,"Fast, accurate & comprehensive text measurement & layout",0,0,0,0,1
+upscayl/upscayl,50815,TypeScript,2022-07-30,47,"🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",0,0,438,200,1
+apple/container,50812,Swift,2025-05-30,589,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",0,0,0,0,1
+nlohmann/json,50784,C++,2013-07-04,39,JSON for Modern C++,0,0,0,0,1
+moeru-ai/airi,50528,TypeScript,2024-12-01,239,"💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",0,0,0,0,1
+ClickHouse/ClickHouse,50510,C++,2016-06-02,8506,ClickHouse® is a real-time analytics database management system,0,0,1199,200,1
+TanStack/query,50456,TypeScript,2019-09-10,148,"🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",0,0,160,160,1
+mastodon/mastodon,50424,Ruby,2016-02-22,4606,"Your self-hosted, globally interconnected microblogging community",42,42,1436,200,1
+QuantumNous/new-api,50341,Go,2023-11-10,1377,"A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers",0,0,467,200,1
+AlistGo/alist,50335,Go,2020-12-23,560,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",0,0,2303,200,1
+pandas-dev/pandas,50230,Python,2010-08-24,2144,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",0,0,2739,200,1
+team-spotube/spotube,50165,Dart,2021-02-14,871,🎧 Open source music streaming app! Available for both desktop & mobile!,0,0,1223,200,1
+huginn/huginn,50085,Ruby,2013-03-10,703,Create agents that monitor and act on your behalf.  Your agents are standing by!,0,0,6,6,1
+Homebrew/brew,50062,Ruby,2016-03-06,5,🍺 The Package Manager for Everywhere,0,0,0,0,1
+jgthms/bulma,50039,CSS,2016-01-23,531,Modern CSS framework based on Flexbox,0,0,1,1,1
+hashicorp/terraform,49991,Go,2014-03-13,1919,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",0,0,1851,200,1
+x64dbg/x64dbg,49971,C++,2015-04-11,576,An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.,0,0,242,200,1
+tmux/tmux,49942,C,2015-06-03,40,tmux source code,0,0,0,0,1
+NARKOZ/hacker-scripts,49864,JavaScript,2015-11-21,72,Based on a true story,0,0,0,0,1
+DavidHDev/react-bits,49807,JavaScript,2024-08-06,1,"The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.",0,0,78,78,1
+mudler/LocalAI,49798,Go,2023-03-18,194,"LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",0,0,548,200,1
+metabase/metabase,49767,Clojure,2015-02-02,4556,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:,0,0,0,0,1
+Aider-AI/aider,49668,Python,2023-05-09,1935,aider is AI pair programming in your terminal,0,0,238,200,1
+bigskysoftware/htmx,49581,JavaScript,2020-04-13,303,</> htmx - high power tools for HTML,0,0,62,62,1
+HKUDS/nanobot,49224,Python,2026-02-01,869,"Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",0,0,0,0,1
+calcom/cal.diy,49185,TypeScript,2021-03-22,1507,Scheduling infrastructure for absolutely everyone.,0,0,0,0,1
+bevyengine/bevy,49165,Rust,2020-01-18,3491,A refreshingly simple data-driven game engine built in Rust,0,0,0,0,1
+KeygraphHQ/shannon,49159,TypeScript,2025-09-27,25,"Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",0,0,0,0,1
+slidevjs/slidev,49153,TypeScript,2021-04-24,243,Presentation Slides for Developers,0,0,0,0,1
+iamkun/dayjs,48664,JavaScript,2018-04-10,1394,⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API,0,0,0,0,1
+pixijs/pixijs,48434,TypeScript,2013-01-21,401,"The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",0,0,0,0,1
+MHSanaei/3x-ui,48329,Go,2023-02-09,232,"Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) ",0,0,182,182,1
+ReactiveX/RxJava,48177,Java,2013-01-08,11,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,0,0,4,4,1
+hiroi-sora/Umi-OCR,48068,Python,2022-03-28,366,"OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",0,0,19,19,1
+exo-explore/exo,47978,Python,2024-06-24,378,Run frontier AI locally.,0,0,6,6,1
+abhigyanpatwari/GitNexus,47972,TypeScript,2025-08-02,292,GitNexus: The Zero-Server Code Intelligence Engine ,0,0,0,0,1
+moment/moment,47899,JavaScript,2011-03-01,60,"Parse, validate, manipulate, and display dates in javascript.",0,0,3,3,1
+gogs/gogs,47889,Go,2014-02-12,1015,The painless way to host your own Git service,0,0,0,0,1
+usebruno/bruno,47772,JavaScript,2022-09-27,1910,Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia),0,0,1125,200,1
+oobabooga/textgen,47738,Python,2022-12-21,865,"Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",0,0,2512,200,1
+prisma/orm,47683,TypeScript,2019-06-20,2785,"Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",0,0,3892,200,1
+slab/quill,47380,TypeScript,2012-07-30,663,Quill is a modern WYSIWYG editor built for compatibility and extensibility,3,3,0,0,1
+9001/copyparty,47099,Python,2019-05-26,258,"Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",0,0,53,53,1
+lysine-dev/okhttp,47090,Kotlin,2012-07-23,149,"A meticulous HTTP client for the JVM, Android, and GraalVM.",0,0,350,200,1
+DeusData/codebase-memory-mcp,47037,C,2026-02-24,624,"Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",0,0,0,0,1
+serverless/serverless,46932,JavaScript,2015-04-21,1203,"⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",0,0,76,76,1
+v2ray/v2ray-core,46920,Go,2015-09-04,15,A platform for building proxies to bypass network restrictions.,0,0,0,0,1
+microsoft/monaco-editor,46882,JavaScript,2016-06-07,886,A browser based code editor,15,15,305,200,1
+siyuan-note/siyuan,46858,TypeScript,2020-08-30,5,"An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",0,0,1700,200,1
+iina/iina,46854,Swift,2016-12-19,1972,The modern video player for macOS.,0,0,163,163,1
+cli/cli,46710,Go,2019-10-03,1108,GitHub’s official command line tool,12,12,1074,200,1
+jgm/pandoc,46656,Haskell,2010-03-20,1047,Universal markup converter,0,0,1213,200,1
+helix-editor/helix,46655,Rust,2020-06-01,1739,A post-modern modal text editor.,0,0,0,0,1
+zhongyang219/TrafficMonitor,46629,C++,2017-07-30,1363,这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。,0,0,33,33,1
+DIYgod/RSSHub,46594,TypeScript,2018-04-02,44,🧡 Everything is RSSible,0,0,0,0,1
+milvus-io/milvus,46451,Go,2019-09-16,1428,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",0,0,6932,200,1
+RocketChat/Rocket.Chat,46299,TypeScript,2015-05-19,4195,The Secure CommsOS™ for mission-critical operations,5,5,256,200,1
+files-community/Files,46116,C#,2019-01-04,463,A modern file manager that helps users organize their files and folders.,0,0,0,0,1
+vnpy/vnpy,45957,Python,2015-03-02,10,基于Python的开源量化交易平台开发框架,0,0,11,11,1
+google/zx,45812,JavaScript,2021-05-05,22,A tool for writing better scripts,0,0,19,19,1
+mitmproxy/mitmproxy,45795,Python,2010-02-16,502,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.,0,0,116,116,1
+Leaflet/Leaflet,45776,JavaScript,2010-09-22,532,🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦,23,23,250,200,1
+getsentry/sentry,45616,Python,2010-08-30,2221,Developer-first error tracking and performance monitoring,0,0,858,200,1
+boykopovar/AnyPS5,45536,C++,2026-08-03,1039,Tool for automatic PS5 executables porting to Linux and Windows,0,0,0,0,1
+jestjs/jest,45489,TypeScript,2013-12-10,242,Delightful JavaScript Testing.,0,0,872,200,1
+charmbracelet/bubbletea,45471,Go,2020-01-10,272,A powerful little TUI framework 🏗,0,0,39,39,1
+grpc/grpc,45393,C++,2014-12-08,1363,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",0,0,1251,200,1
+juspay/hyperswitch,45384,Rust,2022-10-17,2343,"Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati",0,0,0,0,1
+payloadcms/payload,45383,TypeScript,2021-01-05,1378,"Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building ",0,0,21,21,1
+imputnet/cobalt,45315,Svelte,2022-07-08,278,best way to save what you love,0,0,180,180,1
+zen-browser/desktop,45044,C++,2024-03-28,770,Welcome to a calmer internet,0,0,3671,200,1
+janhq/jan,45023,Rust,2023-08-17,596,Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.,0,0,0,0,1
+react-hook-form/react-hook-form,44869,TypeScript,2019-03-05,7,📋 React Hooks for form state management and validation (Web + React Native),0,0,65,65,1
+juanfont/headscale,44830,Go,2020-06-21,139,"An open source, self-hosted implementation of the Tailscale control server",0,0,560,200,1
+sharkdp/fd,44814,Rust,2017-05-09,217,"A simple, fast and user-friendly alternative to 'find'",0,0,89,89,1
+meteor/meteor,44793,JavaScript,2012-01-19,351,"Meteor, the JavaScript App Platform",0,0,0,0,1
+mifi/lossless-cut,44788,TypeScript,2016-10-30,163,The swiss army knife of lossless video/audio editing,0,0,40,40,1
+vercel/hyper,44745,TypeScript,2016-07-01,1049,A terminal built on web technologies,0,0,0,0,1
+spf13/cobra,44710,Go,2013-09-03,478,A Commander for modern Go CLI interactions,0,0,21,21,1
+AykutSarac/jsoncrack.com,44512,TypeScript,2022-01-30,46,"✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",0,0,110,110,1
+ccxt/ccxt,44489,Python,2017-05-14,716,A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust,0,0,1092,200,1
+Wei-Shaw/sub2api,44458,Go,2025-12-18,3691,Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。,0,0,0,0,1
+vercel-labs/agent-browser,44337,Rust,2026-01-11,698,Browser automation CLI for AI agents,0,0,0,0,1
+Kong/kong,44288,Lua,2014-11-17,220,🦍 The API and AI Gateway,0,0,50,50,1
+apache/spark,44260,Scala,2014-02-25,694,Apache Spark - A unified analytics engine for large-scale data processing,0,0,0,0,1
+colinhacks/zod,44163,TypeScript,2020-03-07,94,TypeScript-first schema validation with static type inference,0,0,0,0,1
+babel/babel,44050,TypeScript,2014-09-28,812,🐠 Babel is a compiler for writing next generation JavaScript.,0,0,0,0,1
+parcel-bundler/parcel,44007,JavaScript,2017-08-07,615,The zero configuration build tool for the web. 📦🚀,0,0,0,0,1
+streamich/react-use,43992,TypeScript,2018-10-27,668,React Hooks — 👍,0,0,0,0,1
+lysine-dev/retrofit,43934,Java,2010-09-06,148,A type-safe HTTP client for Android and the JVM,0,0,6,6,1
+astaxie/build-web-application-with-golang,43874,Go,2012-08-02,139,A golang ebook intro how to build a web with golang,0,0,0,0,1
+HeyPuter/puter,43832,TypeScript,2024-03-03,37,"🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",0,0,82,82,1
+langchain-ai/langgraph,43598,Python,2023-08-09,499,Build resilient agents.,0,0,65,65,1
+Light-City/CPlusPlusThings,43554,C++,2019-07-14,11,C++那些事,0,0,0,0,1
+Unitech/pm2,43314,JavaScript,2013-05-21,1110,Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.,0,0,0,0,1
+ziglang/zig,43282,Zig,2015-08-06,2757,Moved to Codeberg,0,0,4438,200,1
+aria2/aria2,43207,C++,2010-11-27,1183,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",0,0,1,1,1
+curl/curl,43189,C,2010-03-18,99,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF",0,0,0,0,1
+gkd-kit/gkd,43123,Kotlin,2023-07-04,19,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",0,0,44,44,1
+JustVugg/colibri,43069,C,2026-07-01,153,"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",0,0,0,0,1
+FuelLabs/fuels-rs,42970,Rust,2021-10-31,77,Fuel Network Rust SDK,0,0,129,129,1
+sxyazi/yazi,42948,Rust,2023-07-08,67,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",0,0,302,200,1
+FuelLabs/fuels-ts,42929,TypeScript,2021-09-03,80,Fuel Network Typescript SDK,0,0,346,200,1
+agno-agi/agno,42840,Python,2022-05-04,1923,"Build, run, and manage agent platforms.",0,0,415,200,1
+mingrammer/diagrams,42749,Python,2020-02-02,400,:art: Diagram as Code for prototyping cloud system architectures,0,0,1,1,1
+exelban/stats,42684,Swift,2019-05-29,20,macOS system monitor in your menu bar,0,0,38,38,1
+666ghj/BettaFish,42481,Python,2024-07-01,7,微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。,0,0,2,2,1
+LizardByte/Sunshine,42444,C++,2021-12-15,165,Self-hosted game stream host for Moonlight.,0,0,0,0,1
+AstrBotDevs/AstrBot,42440,Python,2022-12-08,970,"AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",0,0,605,200,1
+shiyu-coder/Kronos,42352,Python,2025-07-01,283,Kronos: A Foundation Model for the Language of Financial Markets,0,0,0,0,1
+duckdb/duckdb,42318,C++,2018-06-26,900,DuckDB is a high-performance analytical database system,0,0,0,0,1
+fastlane/fastlane,42272,Ruby,2014-12-02,684,🚀 The easiest way to automate building and releasing your iOS and Android apps,0,0,3,3,1
+XTLS/Xray-core,42218,Go,2020-11-09,72,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",0,0,46,46,1
+tinyhumansai/openhuman,42194,Rust,2026-02-18,304,"The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",0,0,0,0,1
+chatboxai/chatbox,42087,TypeScript,2023-03-06,1341,Powerful AI Client,0,0,28,28,1
+psf/black,41964,Python,2018-03-14,284,The uncompromising Python code formatter,0,0,0,0,1
+nolimits4web/swiper,41904,TypeScript,2012-03-14,247,Most modern mobile touch slider with hardware accelerated transitions,0,0,0,0,1
+hexojs/hexo,41777,TypeScript,2012-09-23,79,"A fast, simple & powerful blog framework, powered by Node.js.",0,0,23,23,1
+ManimCommunity/manim,41720,Python,2020-05-19,500,A community-maintained Python framework for creating mathematical animations. ,0,0,0,0,1
+GyulyVGC/sniffnet,41649,Rust,2022-07-31,55,Comfortably monitor your network traffic 🕵️‍♂️,0,0,68,68,1
+dcloudio/uni-app,41619,JavaScript,2018-07-12,713,A cross-platform framework using Vue.js,0,0,117,117,1
+apache/dubbo,41578,Java,2012-06-19,1049,The java implementation of Apache Dubbo. An RPC and microservice framework.,0,0,0,0,1
+yarnpkg/yarn,41468,JavaScript,2016-01-19,2055,The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry,0,0,22,22,1
+microsoft/BitNet,41215,C++,2024-08-05,375,Official inference framework for 1-bit LLMs,0,0,0,0,1
+facebookresearch/faiss,41178,C++,2017-02-07,351,A library for efficient similarity search and clustering of dense vectors.,0,0,30,30,1
+nwjs/nw.js,41142,JavaScript,2012-01-04,913,Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.,0,0,92,92,1
+appsmithorg/appsmith,41097,TypeScript,2020-06-30,4508,"Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",0,0,7638,200,1
+styled-components/styled-components,41065,TypeScript,2016-08-16,26,"Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",0,0,0,0,1
+vuetifyjs/vuetify,41032,TypeScript,2016-09-12,343,🐉 Vue Component Framework,64,64,0,0,1
+bailicangdu/vue2-elm,40974,Vue,2016-12-23,2,Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用,0,0,0,0,1
+qbittorrent/qBittorrent,40952,C++,2012-02-04,2696,qBittorrent BitTorrent client,4,4,0,0,1
+zai-org/ChatGLM-6B,40911,Python,2023-03-13,610,ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型,0,0,4,4,1
+remoteintech/remote-jobs,40894,JavaScript,2015-10-13,20,Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies,0,0,10,10,1
+trpc/trpc,40719,TypeScript,2020-07-18,178,🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ,0,0,0,0,1
+nushell/nushell,40705,Rust,2019-05-10,1436,A new type of shell,0,0,0,0,1
+chakra-ui/chakra-ui,40699,TypeScript,2019-08-17,17,Chakra UI is a component system for building SaaS products with speed ⚡️,0,0,0,0,1
+schollz/croc,40690,Go,2017-10-17,2,Easily and securely send things from one computer to another :crocodile: :package:,0,0,70,70,1
+pingcap/tidb,40662,Go,2015-09-06,7341,"TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur",0,0,0,0,1
+datalab-to/marker,40565,Python,2023-10-30,494,Convert PDF to markdown + JSON quickly with high accuracy,0,0,0,0,1
+anthropics/financial-services,40556,Python,2026-02-23,236,,0,0,0,0,1
+phaserjs/phaser,40520,JavaScript,2013-04-12,173,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",0,0,0,0,1
+php/php-src,40449,C,2011-06-16,2164,The PHP Interpreter,0,0,3224,200,1
+frappe/erpnext,40408,Python,2011-06-08,1372,Free and Open Source Enterprise Resource Planning (ERP),0,0,3249,200,1
+PostHog/posthog,40364,Python,2020-01-23,5601,":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c",0,0,1905,200,1
+ShareX/ShareX,40262,C#,2013-10-08,629,"ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t",0,0,41,41,1
+aseprite/aseprite,40254,C++,2014-08-19,2028,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)",0,0,624,200,1
+HKUDS/LightRAG,40245,Python,2024-10-02,396,[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation,0,0,200,200,1
+TeamNewPipe/NewPipe,40229,Java,2015-09-03,1484,A libre lightweight streaming front-end for Android.,3,3,620,200,1
+gofiber/fiber,40225,Go,2020-01-16,22,⚡️ Express inspired web framework written in Go,0,0,0,0,1
